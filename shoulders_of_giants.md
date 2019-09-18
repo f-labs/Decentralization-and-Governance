@@ -4,7 +4,7 @@
 
 - [The Full Circle Hypothesis](https://medium.com/@mariolaul/the-full-circle-hypothesis-8537604b5a01) |【[Local Archive](./papers/The_Full_Circle_Hypothesis.md)】 —— Mario Laul
 
-- [Resource Distribution and Power Dynamics in Decentralized Networks](https://medium.com/@mariolaul/resource-distribution-and-power-dynamics-in-decentralized-networks-ab0610bee6e1) —— Mario Laul
+- [Resource Distribution and Power Dynamics in Decentralized Networks](https://medium.com/@mariolaul/resource-distribution-and-power-dynamics-in-decentralized-networks-ab0610bee6e1) |【[Local Archive](./papers/Resource_Distribution_and_Power_Dynamics_in_Decentralized_Networks.md)】 —— Mario Laul
 
 - [Cryptonetworks are not Companies](https://medium.com/@cburniske/cryptonetworks-are-not-companies-a307ad6a61ae) —— Chris Burniske
 
