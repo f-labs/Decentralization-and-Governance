@@ -1,4 +1,4 @@
-# Decentralization_and_Governance
+# Decentralization and Governance
 
 Why Decentralization Matters? 
 
