@@ -17,6 +17,8 @@ Here, there will also be some our research experience.
 
 Here, we will embark on a long road of research.
 
+Here, you can also participate and contribute your wisdom.
+
 We are standing on the shoulders of giants to explore this wonderful world.
 
 
