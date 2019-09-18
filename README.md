@@ -11,4 +11,6 @@ How to Govern BlockChain?
 
 -----
 
-_Futurelabs Cryptoeconomics Research Team: yatingzhou and blocklee_  
+_Futurelabs Cryptoeconomics Research Team
+
+Researchers: yatingzhou and blocklee_  
