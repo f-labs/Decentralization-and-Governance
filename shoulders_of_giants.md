@@ -8,8 +8,8 @@
 
 - [Cryptonetworks are not Companies](https://medium.com/@cburniske/cryptonetworks-are-not-companies-a307ad6a61ae) |【[Local Archive](./papers/Cryptonetworks_are_not_Companies.md)】 —— Chris Burniske
 
-- [Blockchain Networks are Bureaucracies par Excellence](https://medium.com/@mariolaul/blockchains-are-bureaucracies-par-excellence-db39cfda7ea9)  —— Mario Laul 
+- [Blockchain Networks are Bureaucracies par Excellence](https://medium.com/@mariolaul/blockchains-are-bureaucracies-par-excellence-db39cfda7ea9) |【[Local Archive](./papers/Blockchain_Networks_are_Bureaucracies_par_Excellence.md)】 —— Mario Laul 
 
-- [Blockchain Voter Apathy](https://medium.com/wave-financial/blockchain-voter-apathy-69a1570e2af3) —— Roy Learner 
+- [Blockchain Voter Apathy](https://medium.com/wave-financial/blockchain-voter-apathy-69a1570e2af3) |【[Local Archive](./papers/Blockchain_Voter_Apathy.md)】 —— Roy Learner 
 
-- [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) —— Fred Ehrsam
+- [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) |【[Local Archive](./papers/Blockchain_Governance_Programming_Our_Future.md)】 —— Fred Ehrsam
