@@ -1,6 +1,6 @@
 ### paper list
 
-- [Why Decentralization Matters](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e) —— Chris Dixon
+- [Why Decentralization Matters](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e) |【[Local Archive](./papers/Why_Decentralization_Matters.md)】 —— Chris Dixon
 
 - [The Full Circle Hypothesis](https://medium.com/@mariolaul/the-full-circle-hypothesis-8537604b5a01) —— Mario Laul
 
