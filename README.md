@@ -3,10 +3,19 @@
 
 
 
-Why Decentralization Matters? 
+- Why Decentralization Matters? 
 
-How to Govern BlockChain?
+- How to Govern BlockChain?
 
+- Resource Distribution and Power Dynamics
+
+Here, we will embark on a long road of research.
+
+Here, there will be some previous research results.
+
+Here, there will also be some our research experience.
+
+We are standing on the shoulders of giants to explore this wonderful world.
 
 
 -----
