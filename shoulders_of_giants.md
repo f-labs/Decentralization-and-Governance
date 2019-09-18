@@ -6,7 +6,7 @@
 
 - [Resource Distribution and Power Dynamics in Decentralized Networks](https://medium.com/@mariolaul/resource-distribution-and-power-dynamics-in-decentralized-networks-ab0610bee6e1) |【[Local Archive](./papers/Resource_Distribution_and_Power_Dynamics_in_Decentralized_Networks.md)】 —— Mario Laul
 
-- [Cryptonetworks are not Companies](https://medium.com/@cburniske/cryptonetworks-are-not-companies-a307ad6a61ae) —— Chris Burniske
+- [Cryptonetworks are not Companies](https://medium.com/@cburniske/cryptonetworks-are-not-companies-a307ad6a61ae) |【[Local Archive](./papers/Cryptonetworks_are_not_Companies.md)】 —— Chris Burniske
 
 - [Blockchain Networks are Bureaucracies par Excellence](https://medium.com/@mariolaul/blockchains-are-bureaucracies-par-excellence-db39cfda7ea9)  —— Mario Laul 
 
