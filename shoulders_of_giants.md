@@ -12,6 +12,18 @@
 
 - [Blockchain Voter Apathy](https://medium.com/wave-financial/blockchain-voter-apathy-69a1570e2af3) |【[Local Archive](./papers/Blockchain_Voter_Apathy.md)】 —— Roy Learner 
 
-- [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) |【[Local Archive](./papers/Blockchain_Governance_Programming_Our_Future.md)】 —— Fred Ehrsam
+- [*Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) |【[Local Archive](./papers/Blockchain_Governance_Programming_Our_Future.md)】 —— Fred Ehrsam
 
-- []() | 【[Local Archive](./papers/Blockchain_Voter_Apathy.md)】  —— 
+- [Cryptonetworks and Governments](https://medium.com/@mariolaul/cryptonetworks-and-governments-fc2e876c0ba8) | 【[Local Archive](./papers/Cryptonetworks_and_Governments.md)】  —— Mario Laul
+
+- [*Web Vs. Crypto Service Models, Cost Structures And Value Distribution](https://www.placeholder.vc/blog/2019/8/19/web-vs-crypto-service-models-cost-structures-and-value-distribution) |【[Local Archive](./papers/Web_Vs._Crypto_Service_Models,_Cost_Structures_And_Value_Distribution.md)】—— Joel Monegro
+
+- [Sovereign Cryptonetworks](https://www.placeholder.vc/blog/2019/7/31/sovereign-cryptonetworks) | 【[Local Archive](./papers/Sovereign_Cryptonetworks.md)】 —— Joel Monegro
+
+- [The Best Time to Buy & Build Tokens](https://medium.com/@cburniske/the-best-time-to-buy-build-tokens-d14ebe7acbd3) | 【[Local Archive](./papers/The_Best_Time_to_Buy_&_Build_Tokens.md)】 —— Chris Burniske 
+
+- []() | 【[Local Archive](./papers/)】 ——
+
+- []() | 【[Local Archive](./papers/)】 ——
+
+- []() | 【[Local Archive](./papers/)】 ——
