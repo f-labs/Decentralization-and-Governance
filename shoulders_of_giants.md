@@ -13,3 +13,5 @@
 - [Blockchain Voter Apathy](https://medium.com/wave-financial/blockchain-voter-apathy-69a1570e2af3) |【[Local Archive](./papers/Blockchain_Voter_Apathy.md)】 —— Roy Learner 
 
 - [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) |【[Local Archive](./papers/Blockchain_Governance_Programming_Our_Future.md)】 —— Fred Ehrsam
+
+- []() | 【[Local Archive](./papers/Blockchain_Voter_Apathy.md)】  —— 
