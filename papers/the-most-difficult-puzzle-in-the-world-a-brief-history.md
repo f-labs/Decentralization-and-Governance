@@ -35,10 +35,11 @@ Harry Markowitz published “Portfolio Selection” in the Journal of Finance in
 ## 1970 — Efficient Market Hypothesis
 
 Why did researchers take so long to formally define an efficient market? Eugene Fama proposed three forms⁶ of market efficiency:
-Weak-Form Efficiency: Future prices cannot be predicted by analyzing prices from the past. In other words, making investment decisions based solely on historical pricing data will not generate excess returns in the long run.
 
-Semi-Strong-Form Efficiency: Share prices adjust to new publicly available information quickly and in an unbiased manner. This form of efficiency means that trading on historic price data or fundamental stock analysis would not generate excess returns in the long run.
-Strong-Form Efficiency: Share prices reflect all information available in the public domain and the information held by insiders, and no one can earn excess returns.
+- **Weak-Form Efficiency**: Future prices cannot be predicted by analyzing prices from the past. In other words, making investment decisions based solely on historical pricing data will not generate excess returns in the long run.
+
+- **Semi-Strong-Form Efficiency**: Share prices adjust to new publicly available information quickly and in an unbiased manner. This form of efficiency means that trading on historic price data or fundamental stock analysis would not generate excess returns in the long run.
+- **Strong-Form Efficiency**: Share prices reflect all information available in the public domain and the information held by insiders, and no one can earn excess returns.
 
 These hypotheses form the bulk of the foundations of empirical finance. Earning risk-free returns should be impossible. Hedge Funds should not be able to generate excess returns above their fee structure.
 
