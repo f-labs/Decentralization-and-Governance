@@ -1,4 +1,4 @@
-## The Most Difficult Puzzle in the World: A Brief History
+# The Most Difficult Puzzle in the World: A Brief History
 
 Author: Jon Taylor  
 Aug 21,on medium.  
@@ -9,11 +9,11 @@ https://medium.com/numerai/the-most-difficult-puzzle-in-the-world-a-brief-histor
 
 You’d think that Finance is a well-researched topic, having solved the “big questions” of our time. Market efficiency suggests that an asset’s last-traded price, such as a stock, reflects its true value. If markets are efficient, then how can anyone outperform the average return of the market over a long time? Finance has been around longer than the scientific method¹ , but we have only just scratched the surface on market efficiency. Let’s look back in time at the discovery process of finance.
 
-### 600 B.C.
+## 600 B.C.
 
 One of the first philosophers was a trader. Thales of Miletus predicted a bumper crop of olives and so he negotiated with the owners of olive presses to pre-pay for their use at a future time. Thales is credited with creating the first recorded futures contract. He is also credited with being the first person in Western civilization to leave mysticism behind and begin thinking in terms of scientific philosophy.
 
-### 1685 A.D.
+## 1685 A.D.
 
 A French mathematician by the name of Mathieu de la Porte is credited with providing the first use of the word arbitrage.
 
@@ -21,18 +21,18 @@ A French mathematician by the name of Mathieu de la Porte is credited with provi
 
 Translated loosely, arbitrage considers different exchange rates to recognize the most profitable places of issuance and settlement for a bill of exchange. The concept of market inefficiencies was evident; but no formal theory has been proposed.
 
-### 1900
+## 1900
 
 Louis Bachelier provided the mathematical process that we still use today. Bachelier was the first person to model Brownian Motion³ and is considered to be the Father of Quantitative Finance. Albert Einstein provided the mathematical proof five years later⁴. Some of the arguments in his thesis align closely with the assumptions of the Efficient Market Hypothesis, since a random walk would approximate the future price of a security when all the information about a security was available to everyone.
 
-### 1952 — Modern Portfolio Theory
+## 1952 — Modern Portfolio Theory
 
 Harry Markowitz published “Portfolio Selection” in the Journal of Finance in 1952. He showed that a diversified portfolio exists which maximizes expected return and minimizes risk. His research has been cited 39,348 times⁵.
 
 
 ![image](https://user-images.githubusercontent.com/32875657/67670290-8c996680-f9ae-11e9-93ec-87498e1378a7.png)
 
-### 1970 — Efficient Market Hypothesis
+## 1970 — Efficient Market Hypothesis
 
 Why did researchers take so long to formally define an efficient market? Eugene Fama proposed three forms⁶ of market efficiency:
 Weak-Form Efficiency: Future prices cannot be predicted by analyzing prices from the past. In other words, making investment decisions based solely on historical pricing data will not generate excess returns in the long run.
@@ -42,7 +42,7 @@ Strong-Form Efficiency: Share prices reflect all information available in the pu
 
 These hypotheses form the bulk of the foundations of empirical finance. Earning risk-free returns should be impossible. Hedge Funds should not be able to generate excess returns above their fee structure.
 
-### 1973 — Black-Scholes Formula
+## 1973 — Black-Scholes Formula
 
 Fischer Black, Robert Merton and Myron Scholes “did the math” to demonstrate that an option’s theoretical price can be calculated using five inputs: the strike price of an option, the current stock price, the time to expiration, the risk-free rate and the volatility of the stock. Their research eventually earned them a Nobel Prize. Unfortunately, their model does not account for “fat tail risk,” since their model assumes that stock returns follow a log-normal process.
 Empirically, stock returns do not follow a normal distribution.
@@ -52,7 +52,7 @@ _above: the left-tail of the histogram of daily stock returns_
 
 Fat-tail risk would eventually destroy Long-Term Capital Management, a hedge fund which Myron Scholes and Robert Merton served as Principals. Long-Term Capital Management required a bail-out organized by the Federal Reserve, who feared that contagion would bring down other titans of industry.
 
-### 1992 — Fama-French 3-Factor Model
+## 1992 — Fama-French 3-Factor Model
 
 Factor trading strategies can thank the research done by Eugene Fama and Kenneth French, which identified two additional factors which explain stock returns beyond the traditional Capital Asset Pricing Model (CAPM). Value and Size are anomalies such that value stocks and small market cap stocks tend to outperform the market. Their paper has been cited 19,350 times⁷. Remember the EMH?
 
@@ -60,11 +60,11 @@ The second largest hedge fund in the world, AQR Capital Management, was founded 
 
 We haven’t made much progress since 1992. In 2015, Eugene Fama and Kenneth French published a paper identifying five factors⁸ which explain asset prices. Even Cliff admits that there is more work to do, highlighting the challenges that quantitative strategies face even when the stock market is booming.
 
-### The Market is Not Efficient
+## The Market is Not Efficient
 
 Some may suggest that trading is gambling, but those people would be very wrong. Gambling at the casino is a zero-sum game; only one party wins with each roll of the die. Trading stocks is a positive sum game, where exploiting inefficiencies can lead to market beating risk-adjusted performance.
 
-### Enter Numerai
+## Enter Numerai
 
 Numerai is a quantitative hedge fund trading global equities. Numerai doesn’t tell us more than that, and they don’t need to. After all, this is the most difficult puzzle in the world, due in part to the tremendous risks, and partly due to incentives for making discoveries and keeping them private.
 
@@ -91,7 +91,8 @@ Let artificial intelligence figure it out. Numerai provides a platform for peopl
 ¹⁰ Bailey, D. H., Borwein, J., Lopez de Prado, M., & Zhu, Q. J. (2014). Pseudo-mathematics and financial charlatanism: The effects of backtest overfitting on out-of-sample performance. Notices of the American Mathematical Society, 61(5), 458–471.
 
 
-
+--------
+--------
 
 ## 谷歌简易译本
 
