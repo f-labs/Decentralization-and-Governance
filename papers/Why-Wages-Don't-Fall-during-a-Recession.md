@@ -1,4 +1,45 @@
 # Why Wages Don't Fall during a Recession
+by Truman F. Bewley (Author)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------
+---------------------------------------
 
 Editorial Reviews
 Review
