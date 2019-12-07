@@ -47,6 +47,25 @@ https://blog.goodaudience.com/blockchain-for-beginners-what-is-blockchain-519db8
 
 https://medium.com/block-science/on-the-practice-of-token-engineering-part-i-c2cc2434e727
 
-https://medium.com/swlh/why-bitcoin-is-not-failing-39e10eef1be1?source=email-5d03d4acaf72-1575408100783-digest.reader------2-58------------------b4afb5cf_d500_4b9d_a894_b1e2f6cc7b87-1-----
+计算机辅助治理（CAG）—自动化决策支持系统的一场革命
+https://medium.com/block-science/computer-aided-governance-cag-a-revolution-in-automated-decision-support-systems-9faa009e57a2
 
-https://medium.com/the-ledger-by-spark/is-bitcoin-the-new-global-safe-haven-b06fe4fced7d?source=email-5d03d4acaf72-1575408100783-digest.reader------1-72------------------b4afb5cf_d500_4b9d_a894_b1e2f6cc7b87-28-----
+-------------------------------------
+这几篇知识可以普及
+
+https://medium.com/swlh/why-bitcoin-is-not-failing-39e10eef1be1
+
+https://medium.com/the-ledger-by-spark/is-bitcoin-the-new-global-safe-haven-b06fe4fced7d
+
+
+https://medium.com/swlh/should-you-invest-in-bitcoin-or-ethereum-in-2020-a5fe4ef4ac46
+
+
+https://blog.goodaudience.com/how-to-protect-your-crypto-from-these-3-common-attacks-6509f29688bd
+
+--------------------------------
+
+
+
+
+
