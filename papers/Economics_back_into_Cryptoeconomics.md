@@ -1,9 +1,10 @@
 # Economics back into Cryptoeconomics
-Akseli Virtanen  
-Dick Bryan, Benjamin Lee, Robert Wosnitzer, Akseli Virtanen*   
+Editor:Akseli Virtanen  
+Author: Dick Bryan, Benjamin Lee, Robert Wosnitzer, Akseli Virtanen*   
 Sep 11, 2018,on medium,
 [Original link](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea)
 
+----------------------------------------------------
 
 The mounting literature on cryptoeconomics shows an interesting but also alarming characteristic: its underlying economics is remarkably conventional and conservative.
 
