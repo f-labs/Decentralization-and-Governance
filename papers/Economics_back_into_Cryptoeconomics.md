@@ -1,5 +1,5 @@
 # Economics back into Cryptoeconomics
-Editor:Akseli Virtanen  
+Editor: Akseli Virtanen  
 Author: Dick Bryan, Benjamin Lee, Robert Wosnitzer, Akseli Virtanen*   
 Sep 11, 2018,on medium,
 [Original link](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea)
@@ -315,97 +315,4 @@ In an economy not driven by profit, but by a different framing of social contrib
 
 ****We think we can borrow from a Hayekian method to re-think different measures made possible by the creation of tokens as units of account.** Price, in its abstracted meaning, is valuation of something (output) by means of an index. So instead of allocating the generic word ‘price’ to our current (and Hayek’s preferred) index of measurement, let’s call that measure ‘profit price’, signalling the epistemological foundation of the index: it is just a profit-centred perspective on value.
 
-But cryptoeconomics provides a means to measure also in terms of post-capitalist values — in terms of future value forms. And ‘profit price’ is not the index that best captures these value forms and their production. On the contrary, it has rather become a drag to their production. This is perhaps one of the most difficult things to understand about the transformation we are in: when capital becomes ‘intangible’ information and knowledge there is an irreversible change in the nature of itself. It does no longer follow the same laws, it does not behave in the same way, it does not produce and capture value anymore in the same way.
-
-Think of knowledge. How and where does knowledge get its value? How does knowledge become valuable? How does the value of knowledge appreciate? The value of knowledge appreciates (a) if it is used in multiple ways, that multiple ways of using it are invented: if it is shared, adopted, repeated, imitated, copied; which means that it is always a collective and social process; (b) if it gets subjectively interpreted, accepted, “owned” and invested into; there is nothing more valuable than a knowledge producer who “owns” the production, is capable in sharing in its risks and puts herself at stake in the production; (c) if its producers ‘risk together’, if they self-regulate continuously the relations of its production, share its risks, stakes, upside. These key features of knowledge production — ability to multiply ways of use, ability to interpret and give subjective meanings, ability to self-regulate and continuously modify relationships between actors in its production — are precisely something that the old value production did not have. It is a different grammar where value gets created by (a) sharing, copying and inventing multiple uses (VS. restricting use by proprietary ownership); (b) many interpretations, iterations, variations, “owners” (VS. hiding the source code); (c ) collective self-organization, self-governance and right to fork (VS. external organization and control).
-
-Would it not make sense that perhaps another kind an on index, say a ‘sociality’ index (‘sociality price’) would better capture such value production, and markets could value in terms of sociality price rather than profit price. (The objective here is not to give precision to a sociality index — or indices — it is just to frame the credibility of their existence as a social alternative, a different perspective on value.)
-
-Fanciful, many will say! Hayek would have us believe, and many passively accept, that profit price is ‘natural’ and society spontaneously gravitates to an order around the calculation of profit price. Sociality price does not exist, and it would be a complete overturning of social norms to engage it.
-
-So how do you compile a sociality index that is socially recognised and used?
-
-First, we should recognise that Hayek’s notion that price formation in markets is a spontaneous order which happens to society is simply wrong. As Karl Polanyi puts it in the context of the socialist calculation debate: markets were planned; planning wasn’t!
-Hayek himself highlights just how much complex and decentralized information goes into compiling price as an index. It’s about costs and market power, regulations, etc. on the cost side and tastes, income, etc. on the demand side. They are different for every individual, for every commodity, and at every point in time. But, and here Hayek is right in relation to current social relations, our society does, in general, bring it all together to create prices and orderly markets.
-
-We respond that this is not a natural order, but a socially organized order. Building alternative sociality indices, and having people value by reference to sociality price, involves a massive cultural as well as economic shift. It would be about production for value rather than production for profit. The key metrics would have to shift from conditions for profitability to conditions for valuable. It is no more or less logically feasible than valuing in terms of profit price.
-
-Cryptotokens provides us with an opportunity to experiment for example with a sociality index of price: indeed to develop multiple indices of valuation that reflect different social priorities the way that profit price reflects capitalism’s priorities. And if total income is determined by payments for contribution for sociality, we have the conditions for a different measure of value, for a different value calculus.
-
-We are thinking to begin to trial this system. To quote ECSA developers:
-
-“Think of the token as a propositional force, a sparkle of potentiality. It is a multi-dimensional docking port that can germinate new forms of relations and value sharing. The token is an occurrence, a virtual (time) crystal expecting its transductive associated milieu. It is an instance of value capture, but only insofar as it acts, simultaneously, as a fugitive relay of anarchic shares collectively modulating and amplifying values. Conceiving of tokens as speculative pragmatic relays is a way of entertaining them as generator of collective effervescence.”
-
-(Erik Bordeleau et al. at the Economic Space Agency “[We don’t know yet what a token can do](https://medium.com/economic-spacing/we-dont-know-yet-what-a-token-can-do-1d76671303ed)”; see also [“On intensive self-issuance”, Economic Space Agency in MoneyLab Reader, pp. 232–233](https://networkcultures.org/blog/publication/moneylab-reader-2-overcoming-the-hype/))
-
-## 7. Once more on fundamental value: the ECSA approach
-
-‘Fundamental value’ is critical in cryptoeconomics for the simple reason that, in economic terms, it is the first benchmark of good governance. That is, it provides the framework so that the integrity of a token on issue is to be found in the system of production that it enables. So there must be a clearly-stated relationship between token issuance and the level of production.
-
-But that relationship is historically specific, and we need to recognise that old notions of ‘fundamental value’ may have to adapt, and not just in the context of cryptotokens, but emphatically in their context.
-
-So what are the hallmarks of the traditional notion of fundamental value? It is that there can be an ‘underlying’ measure outside of (beneath) the vicissitudes of market exchange. Adam Smith called it ‘natural price’; Marx sought a unit of value in socially necessary labour time. Accountancy sought fundamental value in the long-term productive value of the various assets of the corporation, as distinct from stock price. In each of these cases ‘intangible capital’ breaks the modes of fundamental value measurement. That is important as intangible capital becomes increasingly prevalent on corporate balance sheets, and it is clearly central to cryproeconomies.
-
-But more broadly, as the nature of capital changes, so the mode of its measurement changes. If we look at the way financial markets have developed over the last 60 years to explain value — using tools like CAPM, VaR, EMH and Black Scholes — we can see that practical valuation has gone ‘inside’ the market: the idea that ‘real value’ exists outside market transactions is no longer a reflection of how valuation actually occurs.
-
-What it signals is that ‘fundamental value’ has been shifting from stock measures (hours of embedded labour time; machinery and factory sites) to flow measures: from measures ‘outside’ the market to ways of re-interpreting data generated within markets.
-
-A flows approach to fundamental value focusses on sources and uses rather than the valuation of stocks (assets, portfolios, warehouses).
-
-[Professor Perry Mehrling](http://www.perrymehrling.com/), one of the key critics of modern finance in the light of the global financial crisis, quotes Hyman Minsky that “the cash flow approach looks at all units — be they households, corporations, state and municipal governments, or even national governments — as if they were banks.” Cash flows have their uses and sources, and “for each agent, every use has a corresponding source and vice versa” and “each agent’s use is some other agent’s source, and vice versa.” If one thinks of agents as banks then all their assets and liabilities are intertwined. Whatever assets a bank has (i.e. cash) comes from elsewhere, as of course its liabilities are also “social”. In a stock version of fundamental, what is valued is assumed social because what is valued is the product of past social processes. Here, in measuring flows, we are focussing on the social-in-process.
-
-**This approach resonates directly with the interoperability grammar of offers and acceptances undertaken by agents on a blockchain. It suggests a new mode of framing fundamental value; one that is appropriate to the new form of economic interaction generated in a cryptoeconomy.**
-
-The MV=PQ approach to fundamental value must sit under this framing. This identity is one critical perspective on fundamental value.
-ECSA thinks that this framing sets the conditions on which ECSA must build its diagnostic tools and indeed its units of account (for there need not be just one, albeit that there will be commensuration between units, but they may be non-tokenised). We can draw from Hayek the idea that transactional data embody complex, detailed information, from which indices can be compiled: indices that will give access to ‘underlying’ trends and can be compiled in ways to perform the function of units of account.
-
-But, and this is critical, these indices cannot be pre-defined nor locked in: they are themselves to be produced as a recursive exercise of data analysis, and as the data evolve, and as techniques of data analysis evolve, so the (synthetic) indices of fundamental value must evolve. The indices must be in harmony with underlying market processes; not stand in contradistinction.
-
-In an MV=PQ framing, we have to build data from agents’ offers and matches to compile a way to measure Q and V, and ultimately thereby stabilise the relationship between M and P. They must emerge from the interrogation of data, and suit the specific purposes of the new economic spaces bootstrapped by ECSA. And those indices must be allowed to evolve over time, both by processes of refinement as data get richer and processes of transformation as notions of social value evolve within the new economic space.
-
-This on-going process of developing indices will be one of the critical performances of ECSA. It is critical to the integrity of new economic spaces, but we aspire also that it will be part of a wider social project to re-think value. We are familiar with the extensive ‘alternative’ measurement work around the world — in development studies, in human capacity measures, in health, in care, in the environment. We believe that ECSA’s indexing project can be part of this wider agenda; indeed framed within a token economy there will be new ways for this project to develop.
-
-## 8. The derivative form: buying exposures to an exponential future and a big put
-
-The above suggests to us that tokens in cryptoeconomics, and certainly in the new economic space, take the form of derivatives. We mean this not just in the sense that the purchase of an ECSA token in the capital market is a derivative, in the same way that company stocks are derivatives (exposure to company performance, without ownership of the underlying).
-The proposition is deeper — in part material, but in part also symbolic .
-
-First the material expression. There is a widespread embrace from the cryptoeconomic community of the issue of a transformative potential: tokens give exposure to an unverified but exponential future. The various indices that ECSA will compile are themselves derivative formulations, in the sense that movements in indices will determine individual token values as they exchange with other tokens and with ECSA’s mutual stakeholding fund. The purchase of tokens is thereby the acquisition of an exposure to these indices. The indices themselves are measures of the performance of economic spaces. So a token is an exposure to an index which is itself a representation of economic performances by token-issuing economic spaces.
-
-Second, symbolically, the crypto economy involves taking risk positions on the established capitalist economy, its calculation of value, and the economic (and political) power structure around it.
-
-- Those of us engaged in building (and analysing) cryptoeconomics and holding a long position on its potential.
-
-- Those state regulators/commentators who decry the potential of crypto economies are using their regulatory and media power to short us.
-
-- Those who diversify from the conventional capital market and capitalist economy and invest in ECSA are taking a short position of capitalist systems of value calculation. Borrowing the great insight of ECSA Advisor prof. Robert Meister of UCSC, we offer them a ‘big put’, a capacity to short capitalism.
-
-In the words of ECSA Advisor, NYU professor Robert Wosnitzer:
-
-“If the current system/structure of capital “shorts” the qualitative dimensions of life and society, and/or the externalized costs of production (i.e., businesses “put” the costs of, say, pollution onto society), through going “long” the current system of production and circulation, then ECSA is going long the qualitative/intangible dimensions and shorting the current system.
-
-Said differently, a put option “puts” back the cost of the spread between the current value of something and its strike price to a counterparty in equity options, or in the case of bonds that carry a put, the right to “put” back the par value at a specific moment. This “put” option also carries the logic of securitization — that is to say, the rationale and need to securitize mortgages is due to the fact that homeowners have a “put” option that they can exercise at any time, thereby rendering the cash flows unpredictable and therefore not suitable for investment and reducing liquidity. By securitizing mortgages, the “put” option is mitigated as the risk is spread across multiple mortgages in the pool, and then tranching allows for even more precise predictability. So the “put” option has always carried some threat to the current system of capital relations, and the need for securitization arose largely to address this “threat.” Of course, the put option in mortgages has been largely reduced to interest rate sensitivities (and hence the need for strong central banking operations), whilst ignoring the real, material social contexts that often drive interest rates — unemployment, price increases by producers, health care costs, etc. etc.”
-
-And the politics is clear:
-
-Creating “alternative” economic spaces allows the owners of tokens to own an option that could, under certain conditions, “put” back the cost of an externality to the owners of the means of production which created the externality (or injustice, if you will). It’s a long, directional play (buying a put) that is the dialectical opposition to the long, directional play of existing capital relations.
-
-Yet there is currently no derivative product that recognises the significance of this insight, and enables it to be ‘played out’ financially, in a way that don’t express simply via the volatility of token values themselves.
-
-ECSA is currently exploring ways we might engage this logic, for example by securitizing a certain part of revenue (perhaps a world-first collateralized equity note?), with the possibility of both hedging that revenue (both in quantity and currency) and also providing a liquid market tool to attract short positions on ECSA, but in a way that diverts this shorting activity from the ECSA token itself.
-It must be emphasised that this is a strategy currently at the stage of exploration only, as part of engaging in a process of discovery of what cryptotokens might become. It is raised here simply to indicate the kind of exploration we feel need to emerge.
-The ECSA team will be again at NYU during the last week of September to carry on the work in the next series of Cryptoeconomic working sessions.
-
-If you made it this far, and are interested in joining the work, let us know!
-
-## Credits:
-
-Big thanks for comments and discussions on earlier drafts by Johnny Antos, Chris Burniske, Eden Dhaliwal, Anesu Machoko, Jessa Walden and some anonymous contributors. Thanks also to all participants at the Cryptoeconomics Working Sessions at NYU/Stern, Stockholm School of Economics and GCAS. ECSA team working on our cryptoeconomics project — Jonathan Beller, Erik Bordeleau, Fabian Bruder, Pekko Koskinen, Jorge Lopez, Joel Mason, Tere Vaden — rocks.
-
-**Dick Bryan**, is a prof. (emer.) of Political Economy (University of Sydney) and Chief Economist at Economic Space Agency. He is one of the key theorists of the derivative value form, and the author of Risking Together and Capitalism with Derivatives (together with Mike Rafferty).
-
-**Benjamin Lee** is a prof. of Anthropology and Philosophy (The New School, NYC) and Advisor to Economic Space Agency. The author of Derivatives and the Wealth of Societies. Co-organizer of the Volatility Working Group.
-
-**Robert Wosnitzer** is a prof. at New York University/Stern Business School and Advisor to Economic Space Agency. Credit instruments, derivatives, and cultures of finance specialist. Former debt instruments and options trader at Lehman Brothers and Wells Fargo Capital Markets.
-
-**Akseli Virtanen**, PhD, is a political economist, the author of Arbitrary Power. A Critique of Biopolitical Economy and Economy and Social Theory (Vol 1–3, with Risto Heiskala), Co-founder at Economic Space Agency, and at the decentralized hedge fund Robin Hood Minor Asset Management. Currently visiting scholar at Stanford University.
+But cryptoeconomics provides a means to measure also in terms of post-capitalist values — in terms of future value forms. And ‘profit price’ is not the index that best captures these value forms and their production. On the contrary, it has rather become a drag to their production. This is perhaps one of the most difficult things to understand about the transformation we are in: when capital becomes ‘intangible’ information and knowledge there is an irreversible change in the nature of itself. It does no longer follow the same laws, it does not behave in the same way, it does not produce and capture 
