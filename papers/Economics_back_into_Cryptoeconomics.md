@@ -407,7 +407,7 @@ If you made it this far, and are interested in joining the work, let us know!
 
 Big thanks for comments and discussions on earlier drafts by Johnny Antos, Chris Burniske, Eden Dhaliwal, Anesu Machoko, Jessa Walden and some anonymous contributors. Thanks also to all participants at the Cryptoeconomics Working Sessions at NYU/Stern, Stockholm School of Economics and GCAS. ECSA team working on our cryptoeconomics project — Jonathan Beller, Erik Bordeleau, Fabian Bruder, Pekko Koskinen, Jorge Lopez, Joel Mason, Tere Vaden — rocks.
 
-****Dick Bryan**, is a prof. (emer.) of Political Economy (University of Sydney) and Chief Economist at Economic Space Agency. He is one of the key theorists of the derivative value form, and the author of Risking Together and Capitalism with Derivatives (together with Mike Rafferty).
+**Dick Bryan**, is a prof. (emer.) of Political Economy (University of Sydney) and Chief Economist at Economic Space Agency. He is one of the key theorists of the derivative value form, and the author of Risking Together and Capitalism with Derivatives (together with Mike Rafferty).
 
 **Benjamin Lee** is a prof. of Anthropology and Philosophy (The New School, NYC) and Advisor to Economic Space Agency. The author of Derivatives and the Wealth of Societies. Co-organizer of the Volatility Working Group.
 
