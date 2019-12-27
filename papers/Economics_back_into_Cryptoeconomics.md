@@ -19,15 +19,17 @@ At the core of this view are two realizations:
 **2. In their ownership role, they can be derivatives (purchases of risk exposure, not just asset ownership) designed so that people risk together, not individually**. They can invoke collective approaches to dealing with risk and upside, not individualistic ones: they can enable risking together.
 
 In this review we first follow the different framings of ‘economics’ and their implications to cryptoeconomics. The analysis then explores the notion of ‘fundamental value’: how it is utilised in the cryptoeconomics literature and how a different framing of ‘economics’ enables distinctive insights on how to creatively develop the idea of token value being founded in ‘fundamental value’. Our objective is to show how a critical reframing of economics enables token integrity to be explained and managed.
+
 To help you navigate, here is the contents of what follows:
+
 1. Which economics?
 2. The limited working definitions of cryptoeconomics
 3. The Hayekian turn: the integrity of market processes
 4. Cryptotokens: means of exchange or units of account?
-5. The valuation of cryptotokens
-A. Developing the ECSA unit of account
-B. A historical digression, but of some significance
-6. Contemporary lessons from the historical digression
+5. The valuation of cryptotokens   
+6. Developing the ECSA unit of account   
+   A. A historical digression, but of some significance   
+   B. Contemporary lessons from the historical digression 
 7. Once more on fundamental value: the ECSA approach
 8. The derivative form: buying exposures to an exponential future and a big put
 
@@ -62,7 +64,7 @@ Ethereum inventor Vitalik Buterin, consistent with the first definition of econo
 - Using cryptography to prove properties about messages that have happened in the past
 - Using economic incentives defined inside the system to encourage desired properties to hold into the future.
 
-Ethereum developer Vlad Zamfir, embracing more the second definition (and citing Wikipedia), [says that cryptoeconomics might be](https://www.youtube.com/watch?v=pKqdjaH1dRo):
+Ethereum developer Vlad Zamfir, embracing more the second definition (and citing Wikipedia), [says that cryptoeconomics might be](https://www.youtube.com/watch?v=91w3s7iGUXQ):
 
 “A formal discipline that studies protocols that govern the production, distribution, and consumption of goods and services in a decentralized digital economy. Cryptoeconomics is a practical science that focuses on the design and characterization of these protocols.”
 

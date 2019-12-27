@@ -42,7 +42,7 @@
 
 - [The Cryptoeconomic Circle](https://www.placeholder.vc/blog/2019/1/5/the-cryptoeconomic-circle) | 【[Local Archive](./papers/)】 ——
 
-- []() | 【[Local Archive](./papers/)】 ——
+- [Economics_back_into_Cryptoeconomics](https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea) | 【[Local Archive](./papers/Economics_back_into_Cryptoeconomics.md) | [译文]()】 —— Akseli Virtanen
 
 - []() | 【[Local Archive](./papers/)】 ——
 
