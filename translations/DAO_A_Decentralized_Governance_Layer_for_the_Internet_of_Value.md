@@ -48,25 +48,26 @@ Linkedin:https://www.linkedin.com/in/davidfreuden
 
 Sarah Miles, PeterPan, Marie Leaf, Kirill Gourov, Alex Kampa, Alex Masmej, Julien Bouteloup, Kain Warwick, Akseli Virtanen, Mark Roddy, Omar Hannoun, Charlie Smith, Dorjee Sun, Kevin O’Hara, Colin Platt, Daniel Bar, Ron Quaranta, Fran Strajnar, James Zaki,Steven McKie, Matt Prewitt
 
-“Under any economic, social, or political system, individuals, business firms, and organizations in general are subject to lapses from efficient, rational, law-abiding, virtuous, or otherwise functional behavior. No matter how well a society's basic institutions are devised, failures of some actors to live up to the behavior which is expected of them are bound to occur, if only for all kinds of accidental reasons. Each society learns to live with a certain amount of such dysfunctional or misbehavior; but lest the misbehavior feed on itself and lead to general decay, society must be able to marshal from within itself forces which will make as many of the faltering actors as possible revert to the behavior required for its proper functioning.”[1]
 
-"在任何经济、社会或政治制度下，个人、企业公司和一般组织都有可能出现与高效、理性、守法、良性或其他功能行为相悖的失误。无论一个社会的基本制度设计得多么完善，一些行为者未能达到人们对他们的期望的行为，即使只是出于各种偶然的原因，也必然会发生。每个社会都学会了忍受一定数量的这种功能失调或行为失范；但为了避免行为失范自食其果，导致普遍的衰败，社会必须能够从自身内部调动力量，使尽可能多的失范行为者恢复到正常运作所需的行为。
+“Under any economic, social, or political system, individuals, business firms, and organizations in general are subject to lapses from efficient, rational, law-abiding, virtuous, or otherwise functional behavior. No matter how well a society's basic institutions are devised, failures of some actors to live up to the behavior which is expected of them are bound to occur, if only for all kinds of accidental reasons. Each society learns to live with a certain amount of such dysfunctional or misbehavior; but lest the misbehavior feed on itself and lead to general decay, society must be able to marshal from within itself forces which will make as many of the faltering actors as possible revert to the behavior required for its proper functioning.”[1]
 
 “In the place of nation-states you will see at first, smaller jurisdictions at the provincial level, and ultimately smaller sovereignties, enclaves of various kinds like medieval city-states surrounded by their hinterlands. As strange as it may seem to people inculcated with the importance of politics, policies of these new ministates will in many cases be informed more by entrepreneurial positioning than political wrangling. These new, fragmented sovereignties will cater to different tastes, just as hotels and restaurants do, enforcing specific regulations within their public spaces that appeal to the market segments from which they draw their customers.”[2]
 
-"在民族国家的位置上，你一开始会看到省一级的小辖区，最终会看到更小的主权国家，像中世纪城邦一样的各种飞地，被其腹地包围。虽然对于那些被灌输了政治重要性的人来说可能会觉得很奇怪，但在很多情况下，这些新的部族国家的政策更多的是通过企业定位而不是政治角力来实现的。这些新的、支离破碎的主权国家将迎合不同的口味，就像酒店和餐馆一样，在其公共空间内执行具体的规定，以吸引其顾客的市场阶层。
-
 “The view that state improves the functioning of the economy by massive reallocation of resources is an anachronism….it should not be forgotten that governments waste resources on a large scale. Wasting resources makes you poor. A dramatic improvement in the efficiency of resource use will arise when revenues historically engrossed by governments come to be controlled instead by persons of genuine talent.”[3]
+
+"在任何经济、社会或政治制度下，个人、企业公司和一般组织都有可能出现与高效、理性、守法、良性或其他功能行为相悖的失误。无论一个社会的基本制度设计得多么完善，一些行为者未能达到人们对他们的期望的行为，即使只是出于各种偶然的原因，也必然会发生。每个社会都学会了忍受一定数量的这种功能失调或行为失范；但为了避免行为失范自食其果，导致普遍的衰败，社会必须能够从自身内部调动力量，使尽可能多的失范行为者恢复到正常运作所需的行为。
+
+"在民族国家的位置上，你一开始会看到省一级的小辖区，最终会看到更小的主权国家，像中世纪城邦一样的各种飞地，被其腹地包围。虽然对于那些被灌输了政治重要性的人来说可能会觉得很奇怪，但在很多情况下，这些新的部族国家的政策更多的是通过企业定位而不是政治角力来实现的。这些新的、支离破碎的主权国家将迎合不同的口味，就像酒店和餐馆一样，在其公共空间内执行具体的规定，以吸引其顾客的市场阶层。
 
 "国家通过大规模的资源重新分配来改善经济运行的观点是不合时宜的......不应该忘记，政府大规模地浪费资源。浪费资源会使你变得贫穷。当历史上由政府吞噬的收入转而由真正有才干的人控制时，资源使用效率就会有极大的提高。"
 
-"Reciprocity is one of the main forms of human sociality and is defined as: cooperation for mutual benefit. The most complex and far reaching examples of reciprocity are market interactions: trading, buying, selling, producing and other economic activities.”
-
+>"Reciprocity is one of the main forms of human sociality and is defined as: cooperation for mutual benefit. The most complex and far reaching examples of reciprocity are market interactions: trading, buying, selling, producing and other economic activities.”
+>
 > —— Olson,Mancur
 
-"互惠 "是人类社会性的主要形式之一，它的定义是：互利合作。互惠最复杂、影响最深远的例子是市场互动：交易、买卖、生产和其他经济活动。"
-
-—— 奥尔森、曼库尔(1987)
+>"互惠 "是人类社会性的主要形式之一，它的定义是：互利合作。互惠最复杂、影响最深远的例子是市场互动：交易、买卖、生产和其他经济活动。"
+>
+>—— 奥尔森、曼库尔(1987)
 
 
 ---------------------------------
@@ -83,19 +84,23 @@ Sarah Miles, PeterPan, Marie Leaf, Kirill Gourov, Alex Kampa, Alex Masmej, Julie
 
 There are many misconceptions around what Decentralized Autonomous Organizations (DAOs) are and their purpose. A DAO at its core is a simplistic organizational structure and governance process that allows for the collective management of common goods which can be economic or non-economic.[4] The future of DAOs, while simplistic now, has the potential to re-create and re-shape the way organizations are structured. It is still very early days being barely 4 years (30 April 2016) since the first DAO was launched. This first DAO aimed to operate as a venture capital fund for investing in cryptocurrency projects and was an unexpected success securing 12.7M Ether (worth $USD 250M at the time). The space has seen significant development and growth since then and has subsequently sprouted many DAOs and seen a broadening in the scope of use cases. This growth is producing a fertile platform for learning, evolution and various forms of adoption.
 
-围绕着什么是分散式自治组织(DAO)及其目的，人们有很多误解。DAO的核心是一种简单化的组织结构和治理过程，它允许集体管理共同的物品，这些物品可以是经济的，也可以是非经济的[4]。 DAO的未来虽然现在很简单，但有可能重新创造和重塑组织的结构方式。自第一个DAO启动以来，距离仅仅4年（2016年4月30日）的时间，现在还处于非常早期的状态。这第一个DAO旨在作为投资加密货币项目的风险投资基金来运作，并取得了意想不到的成功，获得了1270万以太币（当时价值2.5亿美元）。从那时起，该领域得到了显著的发展和增长，随后萌生了许多DAO，并看到了用例范围的扩大。这种增长正在产生一个肥沃的学习、进化和各种形式的采用平台。
-
 There are many definitions, assumptions and new terminologies associated with DAOs, and they vary significantly depending on which group you are communicating with. That being said, one of the key assumptions that still warrants clarification is the relationship between decentralized and centralized organizational frameworks. These frameworks are not static points at opposite ends of a spectrum. Rather, the different functions of an organisation operate on a centralization scale.
-
-与DAO相关的定义、假设和新的术语有很多，而且根据你与哪个群体交流，它们有很大的不同。尽管如此，其中一个关键的假设仍然值得澄清，那就是分散式组织框架和集中式组织框架之间的关系。这些框架并不是处于光谱两端的静态点。相反，一个组织的不同职能是在集中化的范围内运作的。
 
 Another interesting development is how blockchain technology is becoming a platform for capital formation. Decentralized finance uses applications built on open, public blockchains (like Ethereum or Bitcoin) to facilitate financial services to anybody, anywhere without the need for traditional financial intermediaries. Cryptocurrencies and digital assets can be moved directly within the DAO itself. While DAOs have been discussed and experimented with for the last four years, only now have they become the logical extension of the capital formation piece. This extension was first realized with Ethereum and MakerDao,[5] which was one of the first DAOs and Decentralized Finance (DeFi) projects to be built on Ethereum. Decentralized Finance (DeFi) has the potential to spur growth in the formation of DAOs, particularly investment/for-profit DAOs. Despite the potential that DAOs present, they face challenges from legal, governance and security perspectives.
 
- 另一个有趣的发展是区块链技术如何成为资本形成的平台。去中心化金融使用建立在开放的公共区块链（如Ethereum或比特币）上的应用程序，为任何人、任何地方提供便利的金融服务，而不需要传统的金融中介机构。加密货币和数字资产可以直接在DAO本身内移动。虽然DAO在过去四年里一直在讨论和实验，但直到现在才成为资本形成这一块的逻辑延伸。这种延伸最早是在Ethereum和MakerDao上实现的，它是第一批建立在Ethereum上的DAO和去中心化金融（DeFi）项目之一。去中心化金融（DeFi）有可能刺激形成DAO的增长，特别是投资/盈利性DAO。尽管DAO具有潜力，但它们面临着法律、治理和安全方面的挑战。
- 
 DAOs are as diverse as humanity itself. There are many different categories and feature sets. However, there is one key similar feature amongst DAOs: the collective management of common goods via decentralized governance. The opportunities ahead will be in the formation of new types of organizations based around the interactions between token holders and decentralized governance. 
 
+DAOs make interaction, collaboration, revenue sharing and risks (organization, community) programmable for the first time. This is allowing for an entirely new design space. The first generation internet protocols were stateless (like HTTP) so they needed a data layer for any application functionality. The organization of the “state” of the data layer was provided by the winners of yesterday: Google(for search), Facebook (for social), eBay (for commerce). This allowed them to capture value and drive centralization of the internet. But now the value capture model based on centralized control of the data layer is becoming obsolete: one can not have a competitive advantage based on control of data anymore when we know how to keep a "state" in a decentralized way. Alternatives are now available for people to govern themselves, belong, interact, participate, share ownership, create value, take risks and invest together. The structure of a DAO and the way the community comes together forms the value creation layer.
+
+围绕着什么是分散式自治组织(DAO)及其目的，人们有很多误解。DAO的核心是一种简单化的组织结构和治理过程，它允许集体管理共同的物品，这些物品可以是经济的，也可以是非经济的[4]。 DAO的未来虽然现在很简单，但有可能重新创造和重塑组织的结构方式。自第一个DAO启动以来，距离仅仅4年（2016年4月30日）的时间，现在还处于非常早期的状态。这第一个DAO旨在作为投资加密货币项目的风险投资基金来运作，并取得了意想不到的成功，获得了1270万以太币（当时价值2.5亿美元）。从那时起，该领域得到了显著的发展和增长，随后萌生了许多DAO，并看到了用例范围的扩大。这种增长正在产生一个肥沃的学习、进化和各种形式的采用平台。
+
+与DAO相关的定义、假设和新的术语有很多，而且根据你与哪个群体交流，它们有很大的不同。尽管如此，其中一个关键的假设仍然值得澄清，那就是分散式组织框架和集中式组织框架之间的关系。这些框架并不是处于光谱两端的静态点。相反，一个组织的不同职能是在集中化的范围内运作的。
+
+ 另一个有趣的发展是区块链技术如何成为资本形成的平台。去中心化金融使用建立在开放的公共区块链（如Ethereum或比特币）上的应用程序，为任何人、任何地方提供便利的金融服务，而不需要传统的金融中介机构。加密货币和数字资产可以直接在DAO本身内移动。虽然DAO在过去四年里一直在讨论和实验，但直到现在才成为资本形成这一块的逻辑延伸。这种延伸最早是在Ethereum和MakerDao上实现的，它是第一批建立在Ethereum上的DAO和去中心化金融（DeFi）项目之一。去中心化金融（DeFi）有可能刺激形成DAO的增长，特别是投资/盈利性DAO。尽管DAO具有潜力，但它们面临着法律、治理和安全方面的挑战。
+
 DAO就像人类本身一样多种多样。有许多不同的类别和特征集。然而，DAO之间有一个关键的相似特征：通过分权治理对共同物品进行集体管理。未来的机会将是围绕代币持有者和分散式治理之间的互动而形成的新型组织。
+
+DAO第一次让交互、协作、收益分享和风险（组织、社区）可编程。这是一个全新的设计空间。第一代互联网协议是无状态的（如HTTP），所以它们需要一个数据层来实现任何应用功能。数据层的 "状态 "的组织是由昨天的赢家提供的。Google（搜索）、Facebook（社交）、eBay（商务）。这使得他们能够获取价值，推动互联网的中心化。但现在，基于数据层中心化控制的价值获取模式已经过时了：当我们知道如何以去中心化的方式保持 "状态 "的时候，就不可能再有基于数据控制的竞争优势了。现在，人们可以有替代方案来管理自己、归属、互动、参与、分享所有权、创造价值、承担风险和共同投资。DAO的结构和社区聚集的方式构成了价值创造层。
 
 --------------------
 [4]. These can be political systems, donations, cultural works, natural resources, investing, lending etc.    
@@ -103,10 +108,6 @@ DAO就像人类本身一样多种多样。有许多不同的类别和特征集�
 
 ---------------------
 
-
-DAOs make interaction, collaboration, revenue sharing and risks (organization, community) programmable for the first time. This is allowing for an entirely new design space. The first generation internet protocols were stateless (like HTTP) so they needed a data layer for any application functionality. The organization of the “state” of the data layer was provided by the winners of yesterday: Google(for search), Facebook (for social), eBay (for commerce). This allowed them to capture value and drive centralization of the internet. But now the value capture model based on centralized control of the data layer is becoming obsolete: one can not have a competitive advantage based on control of data anymore when we know how to keep a "state" in a decentralized way. Alternatives are now available for people to govern themselves, belong, interact, participate, share ownership, create value, take risks and invest together. The structure of a DAO and the way the community comes together forms the value creation layer.
-
-DAO第一次让交互、协作、收益分享和风险（组织、社区）可编程。这是一个全新的设计空间。第一代互联网协议是无状态的（如HTTP），所以它们需要一个数据层来实现任何应用功能。数据层的 "状态 "的组织是由昨天的赢家提供的。Google（搜索）、Facebook（社交）、eBay（商务）。这使得他们能够获取价值，推动互联网的中心化。但现在，基于数据层中心化控制的价值获取模式已经过时了：当我们知道如何以去中心化的方式保持 "状态 "的时候，就不可能再有基于数据控制的竞争优势了。现在，人们可以有替代方案来管理自己、归属、互动、参与、分享所有权、创造价值、承担风险和共同投资。DAO的结构和社区聚集的方式构成了价值创造层。
 
 ## KEY TAKE-AWAYS
 ## 关键要点
@@ -176,11 +177,11 @@ DAO第一次让交互、协作、收益分享和风险（组织、社区）可�
 
 - DAO挑战的是传统的等级制和排他性的组织结构，这在当今世界的许多方面都可以看到。通过 "众人的智慧"，可以有更好的集体决策，从而有更好的组织运行。
 
-- 在DAO和去中心化金融[^footnote6]（DeFi）的交叉点上，新的产品正在诞生。随着使用DeFi产品作为支付/分配方式的DAO变得更加分散和数字化，DAO将增加，并导致新的和更多的DeFi产品被形成，以与DAO互动。这将是最强大的地方，DeFi实现允许代币持有者使用治理来定制和优化应用的参数设计，创造更好的、量身定制的用户体验。它还可以用于时间锁定和创建不同类型的收费结构。
+- 在DAO和去中心化金融[6]（DeFi）的交叉点上，新的产品正在诞生。随着使用DeFi产品作为支付/分配方式的DAO变得更加分散和数字化，DAO将增加，并导致新的和更多的DeFi产品被形成，以与DAO互动。这将是最强大的地方，DeFi实现允许代币持有者使用治理来定制和优化应用的参数设计，创造更好的、量身定制的用户体验。它还可以用于时间锁定和创建不同类型的收费结构。
 
 - DAO允许汇集资本，对汇集的资本进行分配，并创建由该资本支持的资产。它们还允许进行非金融资源分配。
 
-- 使用DeFi使DAO能够绕过传统的银行部门，以及他们的低效率，如果他们选择的话。这一点非常重要，因为它创造了一个无信任、无边界、透明、可访问、可互操作和可组合的公司。[^footnote7]
+- 使用DeFi使DAO能够绕过传统的银行部门，以及他们的低效率，如果他们选择的话。这一点非常重要，因为它创造了一个无信任、无边界、透明、可访问、可互操作和可组合的公司。[7]
 
 - DAO社区和治理是非常复杂和难以做好的，但对DAO的成功至关重要。协调过程和激励措施需要平衡，以使所有社区成员感到他们的贡献很重要。
 
@@ -194,8 +195,8 @@ DAO第一次让交互、协作、收益分享和风险（组织、社区）可�
 
 
 ----------------------------------
-[^footnote6]: Decentralized finance uses applications built on open, public blockchains (like Ethereum) to facilitate financial services to anybody, anywhere.     
-[^footnote7]: Creating services with other existing projects by plugging existing projects into your project.
+[6]: Decentralized finance uses applications built on open, public blockchains (like Ethereum) to facilitate financial services to anybody, anywhere.     
+[7]: Creating services with other existing projects by plugging existing projects into your project.
 
 -----------------------------------
 
@@ -320,7 +321,7 @@ One of the most interesting and pertinent questions is whether or not DAOs can b
 
 Because of this centralized to decentralized approach, the definitions around the decentralized component varies greatly DAO to DAO, subsequently, the ease and adoption of greater decentralization is still a long way from becoming a reality.
 
->The construct of Autonomous (in DAO) is challenging, as the definition begets the question, Autonomous from whom? Organizations still need to operate within the legal framework of jurisdictions of its own structure, as well as the jurisdiction of its participants and members. For example, when a not-for-profit employs people, those people are required to pay the tax within the jurisdiction in which they are citizens. There is also evolving SEC (or other financial regulatory body) guidance on whether governance or operational tokens will be defined as securities, currencies, or commodities. This varies greatly as different DAOs need to prove a certain threshold of decentralization.
+The construct of Autonomous (in DAO) is challenging, as the definition begets the question, Autonomous from whom? Organizations still need to operate within the legal framework of jurisdictions of its own structure, as well as the jurisdiction of its participants and members. For example, when a not-for-profit employs people, those people are required to pay the tax within the jurisdiction in which they are citizens. There is also evolving SEC (or other financial regulatory body) guidance on whether governance or operational tokens will be defined as securities, currencies, or commodities. This varies greatly as different DAOs need to prove a certain threshold of decentralization.
 
 Many DAO standards are more iterative than revolutionary. They wish to maintain existing legal and social structures of organizations and implement blockchain for transparency-related tasks such as record keeping, yet still maintain the capacity to use traditional methods if required. From a technological standpoint, DAO forks are also an iterative approach which allow members to take existing code and use it for their expressed purposes in building a DAO which is different from the original DAO. An example of this is Moloch DAO.[11] The code has been forked by other DAO’s in the Ethereum ecosystem.[12] Other smart contract platforms like Kadena have upgradeable code. Pact, which is Kadena’s smart contract language is non-Turing complete (no recursive attacks)[13] and includes formal verification[14] of the code which allows for correctness in the code to be found before smart contracts go live. These iterative technological approaches introduce the transparency and trust layers of blockchain and DAO into an organization’s corporate structure but do not necessarily reduce the legal and technical costs of developing DAOs, nor remove jurisdictional and legal uncertainty.
 
@@ -411,7 +412,7 @@ The two core pieces that make DeFi flourish in networks are liquidity and collat
 > ——Akseli Virtanen, ECSA
                           
 >DAO+DeFi允许扩展金融语法--将其从目前的狭隘使用中解放出来--使无形的、信息性的、关系性的价值（互联网的原生价值）可以被识别和经济地表达出来--因此是可交换的、可流动的、可消费的、可花费的和可押注的--而不一定要将它们的信息缩减为一个价格指数和一个衡量盈利能力的单位，不通过所有权限制它们的使用，不隐藏它们的源代码，不需要通过广告将它们货币化。  
-
+>
 >--Akseli Virtanen, ECSA
 
 
@@ -683,7 +684,7 @@ For DAO governance, even if record keeping is the only function utilizing blockc
 
 The governance rules that have been developed for DAOs so far are generally rather simple and lack innovation. This is not just a DAO problem but a problem in global democracies. Using blockchain technology, new approaches to the problems surrounding democratic governance can be designed to improve:
 
-- Types of voting (eg majority voting, consensus voting, simultaneous voting, multi-stage voting, futarchy.[^footnote24])
+- Types of voting (eg majority voting, consensus voting, simultaneous voting, multi-stage voting, futarchy.[24])
 
 - When to vote, and when to use sortition (random choice)
 - Leaders (term limits?)/ Leaderless / Delegation
@@ -702,7 +703,7 @@ DAOs, as they exist now, will not be able to change how dispute resolution occur
 
 到目前为止，已经制定的DAO的治理规则普遍比较简单，缺乏创新。这不仅是DAO的问题，也是全球民主制度的问题。利用区块链技术，可以设计新的方法来改善民主治理的问题。
 
-- 投票的类型（如多数投票、共识投票、同步投票、多阶段投票、futarchy. [^footnote24]）
+- 投票的类型（如多数投票、共识投票、同步投票、多阶段投票、futarchy. [24]）
 - 何时投票，何时使用排序（随机选择）？
 - 领导人(任期限制?)/无领导人/授权制。
 - 参与激励措施吸引选民投票
