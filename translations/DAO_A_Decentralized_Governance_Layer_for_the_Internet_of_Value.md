@@ -1187,6 +1187,13 @@ Our intention is to provide the opportunity for readers to quickly understand th
 
 Please note that this not a definitive list and the ecosystem of DAOs continues to grow.
 
+以下描述是由各团队成员直接提供的。
+
+我们的目的是为读者提供快速了解DAO全景的机会，并提供每个项目的链接，以帮助您进行自己的研究。
+
+请注意，这并不是一个确定的列表，DAO的生态系统还在不断增长。
+
+
 
 #### [Akropolis](https://akropolis.io/)
 Akropolis is an upgradeable framework for creating for-profit DAOs. The first product comprises (a) liquidity and incentive management using bonding curve, (b) capital coordination mechanism for under-collateralized credit, (c) yield rebalancer. Thus, it aims to translate new DeFi developments into the original vision for a provably solvent pension fund, independent of the banking system, and resilient to inflation and a wide range of attack vectors.
@@ -1200,7 +1207,7 @@ Aragon Network is an organization that provides infrastructure and services to o
 #### [Arbitrage DAO](https://medium.com/@bneiluj/flash-boys-arbitrage-dao-c0b96d094f93)
 Arbitrage DAO is a DeFi Union Arbitrage Fund built by Stake Capital team. It uses a combination of on-chain liquidity and off-chain bots designed for arbitrage opportunities.
 
-#### [Arweave ARCA DAO](https://www.arweave.org/get-involved/grants-funding）
+#### [Arweave ARCA DAO](https://www.arweave.org/get-involved/grants-funding)
 Arweave is a protocol that enables economically sustainable permanent information storage. By offering a new form of storage, backed by an endowment, Arweave enables users to persist web pages, web apps, and all other types of documents, forever. The ARCA DAO funds people like you to pursue your vision for applications, integrations, and beyond with the Arweave protocol.
 
 #### [Bancor](https://blog.bancor.network/bancor-staking-rewards-ad432e5d590d)
