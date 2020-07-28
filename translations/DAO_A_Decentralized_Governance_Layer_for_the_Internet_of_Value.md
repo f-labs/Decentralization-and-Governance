@@ -15,9 +15,9 @@ Author：George Samman & David Freuden，2020年5月
 - [权力下放——个人](#权力下放--个人)
 - [个人——治理](#个人--治理)
 - [治理](#治理)
-- 常见的DAO治理问题
-- DAO仲裁服务
-- DAO和公司
+- [常见的DAO治理挑战](#常见的DAO治理挑战)
+- [DAO仲裁服务](#DAO仲裁服务)
+- [DAO和公司](#DAO和公司)
 - 最后的想法和结论
 - DAO生态系统
 - 参考文献
@@ -51,9 +51,9 @@ Sarah Miles, PeterPan, Marie Leaf, Kirill Gourov, Alex Kampa, Alex Masmej, Julie
 
 “Under any economic, social, or political system, individuals, business firms, and organizations in general are subject to lapses from efficient, rational, law-abiding, virtuous, or otherwise functional behavior. No matter how well a society's basic institutions are devised, failures of some actors to live up to the behavior which is expected of them are bound to occur, if only for all kinds of accidental reasons. Each society learns to live with a certain amount of such dysfunctional or misbehavior; but lest the misbehavior feed on itself and lead to general decay, society must be able to marshal from within itself forces which will make as many of the faltering actors as possible revert to the behavior required for its proper functioning.”[1]
 
-“In the place of nation-states you will see at first, smaller jurisdictions at the provincial level, and ultimately smaller sovereignties, enclaves of various kinds like medieval city-states surrounded by their hinterlands. As strange as it may seem to people inculcated with the importance of politics, policies of these new ministates will in many cases be informed more by entrepreneurial positioning than political wrangling. These new, fragmented sovereignties will cater to different tastes, just as hotels and restaurants do, enforcing specific regulations within their public spaces that appeal to the market segments from which they draw their customers.”[2]
+“In the place of nation-states you will see at first, smaller jurisdictions at the provincial level, and ultimately smaller sovereignties, enclaves of various kinds like medieval city-states surrounded by their hinterlands. As strange as it may seem to people inculcated with the importance of politics, policies of these new ministates will in many cases be informed more by entrepreneurial positioning than political wrangling. These new, fragmented sovereignties will cater to different tastes, just as hotels and restaurants do, enforcing specific regulations within their public spaces that appeal to the market segments from which they draw their customers.”<sup>2</sup>
 
-“The view that state improves the functioning of the economy by massive reallocation of resources is an anachronism….it should not be forgotten that governments waste resources on a large scale. Wasting resources makes you poor. A dramatic improvement in the efficiency of resource use will arise when revenues historically engrossed by governments come to be controlled instead by persons of genuine talent.”[3]
+“The view that state improves the functioning of the economy by massive reallocation of resources is an anachronism….it should not be forgotten that governments waste resources on a large scale. Wasting resources makes you poor. A dramatic improvement in the efficiency of resource use will arise when revenues historically engrossed by governments come to be controlled instead by persons of genuine talent.”<sup>3</sup>
 
 "在任何经济、社会或政治制度下，个人、企业公司和一般组织都有可能出现与高效、理性、守法、良性或其他功能行为相悖的失误。无论一个社会的基本制度设计得多么完善，一些行为者未能达到人们对他们的期望的行为，即使只是出于各种偶然的原因，也必然会发生。每个社会都学会了忍受一定数量的这种功能失调或行为失范；但为了避免行为失范自食其果，导致普遍的衰败，社会必须能够从自身内部调动力量，使尽可能多的失范行为者恢复到正常运作所需的行为。
 
@@ -72,9 +72,9 @@ Sarah Miles, PeterPan, Marie Leaf, Kirill Gourov, Alex Kampa, Alex Masmej, Julie
 
 ---------------------------------
 
-[1]. Hirschman, Albert “Exit, Voice And Loyalty” 1971    
-[2]. Davidson and Moog “The Sovereign Individual”     
-[3]. Olson, Mancur (1987) ‘Diseconomies of Scale and Development’    
+<sup>1</sup>. Hirschman, Albert “Exit, Voice And Loyalty” 1971    
+<sup>2</sup>. Davidson and Moog “The Sovereign Individual”     
+<sup>3</sup>. Olson, Mancur (1987) ‘Diseconomies of Scale and Development’    
    https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/1987/5/cj7n1-5.pdf
 
 ---------------------------------
@@ -82,17 +82,17 @@ Sarah Miles, PeterPan, Marie Leaf, Kirill Gourov, Alex Kampa, Alex Masmej, Julie
 ## INTRODUCTION
 ## 简介
 
-There are many misconceptions around what Decentralized Autonomous Organizations (DAOs) are and their purpose. A DAO at its core is a simplistic organizational structure and governance process that allows for the collective management of common goods which can be economic or non-economic.[4] The future of DAOs, while simplistic now, has the potential to re-create and re-shape the way organizations are structured. It is still very early days being barely 4 years (30 April 2016) since the first DAO was launched. This first DAO aimed to operate as a venture capital fund for investing in cryptocurrency projects and was an unexpected success securing 12.7M Ether (worth $USD 250M at the time). The space has seen significant development and growth since then and has subsequently sprouted many DAOs and seen a broadening in the scope of use cases. This growth is producing a fertile platform for learning, evolution and various forms of adoption.
+There are many misconceptions around what Decentralized Autonomous Organizations (DAOs) are and their purpose. A DAO at its core is a simplistic organizational structure and governance process that allows for the collective management of common goods which can be economic or non-economic.<sup>4</sup> The future of DAOs, while simplistic now, has the potential to re-create and re-shape the way organizations are structured. It is still very early days being barely 4 years (30 April 2016) since the first DAO was launched. This first DAO aimed to operate as a venture capital fund for investing in cryptocurrency projects and was an unexpected success securing 12.7M Ether (worth $USD 250M at the time). The space has seen significant development and growth since then and has subsequently sprouted many DAOs and seen a broadening in the scope of use cases. This growth is producing a fertile platform for learning, evolution and various forms of adoption.
 
 There are many definitions, assumptions and new terminologies associated with DAOs, and they vary significantly depending on which group you are communicating with. That being said, one of the key assumptions that still warrants clarification is the relationship between decentralized and centralized organizational frameworks. These frameworks are not static points at opposite ends of a spectrum. Rather, the different functions of an organisation operate on a centralization scale.
 
-Another interesting development is how blockchain technology is becoming a platform for capital formation. Decentralized finance uses applications built on open, public blockchains (like Ethereum or Bitcoin) to facilitate financial services to anybody, anywhere without the need for traditional financial intermediaries. Cryptocurrencies and digital assets can be moved directly within the DAO itself. While DAOs have been discussed and experimented with for the last four years, only now have they become the logical extension of the capital formation piece. This extension was first realized with Ethereum and MakerDao,[5] which was one of the first DAOs and Decentralized Finance (DeFi) projects to be built on Ethereum. Decentralized Finance (DeFi) has the potential to spur growth in the formation of DAOs, particularly investment/for-profit DAOs. Despite the potential that DAOs present, they face challenges from legal, governance and security perspectives.
+Another interesting development is how blockchain technology is becoming a platform for capital formation. Decentralized finance uses applications built on open, public blockchains (like Ethereum or Bitcoin) to facilitate financial services to anybody, anywhere without the need for traditional financial intermediaries. Cryptocurrencies and digital assets can be moved directly within the DAO itself. While DAOs have been discussed and experimented with for the last four years, only now have they become the logical extension of the capital formation piece. This extension was first realized with Ethereum and MakerDao,<sup>5</sup>  which was one of the first DAOs and Decentralized Finance (DeFi) projects to be built on Ethereum. Decentralized Finance (DeFi) has the potential to spur growth in the formation of DAOs, particularly investment/for-profit DAOs. Despite the potential that DAOs present, they face challenges from legal, governance and security perspectives.
 
 DAOs are as diverse as humanity itself. There are many different categories and feature sets. However, there is one key similar feature amongst DAOs: the collective management of common goods via decentralized governance. The opportunities ahead will be in the formation of new types of organizations based around the interactions between token holders and decentralized governance. 
 
 DAOs make interaction, collaboration, revenue sharing and risks (organization, community) programmable for the first time. This is allowing for an entirely new design space. The first generation internet protocols were stateless (like HTTP) so they needed a data layer for any application functionality. The organization of the “state” of the data layer was provided by the winners of yesterday: Google(for search), Facebook (for social), eBay (for commerce). This allowed them to capture value and drive centralization of the internet. But now the value capture model based on centralized control of the data layer is becoming obsolete: one can not have a competitive advantage based on control of data anymore when we know how to keep a "state" in a decentralized way. Alternatives are now available for people to govern themselves, belong, interact, participate, share ownership, create value, take risks and invest together. The structure of a DAO and the way the community comes together forms the value creation layer.
 
-围绕着什么是分散式自治组织(DAO)及其目的，人们有很多误解。DAO的核心是一种简单化的组织结构和治理过程，它允许集体管理共同的物品，这些物品可以是经济的，也可以是非经济的[4]。 DAO的未来虽然现在很简单，但有可能重新创造和重塑组织的结构方式。自第一个DAO启动以来，距离仅仅4年（2016年4月30日）的时间，现在还处于非常早期的状态。这第一个DAO旨在作为投资加密货币项目的风险投资基金来运作，并取得了意想不到的成功，获得了1270万以太币（当时价值2.5亿美元）。从那时起，该领域得到了显著的发展和增长，随后萌生了许多DAO，并看到了用例范围的扩大。这种增长正在产生一个肥沃的学习、进化和各种形式的采用平台。
+围绕着什么是分散式自治组织(DAO)及其目的，人们有很多误解。DAO的核心是一种简单化的组织结构和治理过程，它允许集体管理共同的物品，这些物品可以是经济的，也可以是非经济的<sup>4</sup>。 DAO的未来虽然现在很简单，但有可能重新创造和重塑组织的结构方式。自第一个DAO启动以来，距离仅仅4年（2016年4月30日）的时间，现在还处于非常早期的状态。这第一个DAO旨在作为投资加密货币项目的风险投资基金来运作，并取得了意想不到的成功，获得了1270万以太币（当时价值2.5亿美元）。从那时起，该领域得到了显著的发展和增长，随后萌生了许多DAO，并看到了用例范围的扩大。这种增长正在产生一个肥沃的学习、进化和各种形式的采用平台。
 
 与DAO相关的定义、假设和新的术语有很多，而且根据你与哪个群体交流，它们有很大的不同。尽管如此，其中一个关键的假设仍然值得澄清，那就是分散式组织框架和集中式组织框架之间的关系。这些框架并不是处于光谱两端的静态点。相反，一个组织的不同职能是在集中化的范围内运作的。
 
@@ -103,8 +103,8 @@ DAO就像人类本身一样多种多样。有许多不同的类别和特征集�
 DAO第一次让交互、协作、收益分享和风险（组织、社区）可编程。这是一个全新的设计空间。第一代互联网协议是无状态的（如HTTP），所以它们需要一个数据层来实现任何应用功能。数据层的 "状态 "的组织是由昨天的赢家提供的。Google（搜索）、Facebook（社交）、eBay（商务）。这使得他们能够获取价值，推动互联网的中心化。但现在，基于数据层中心化控制的价值获取模式已经过时了：当我们知道如何以去中心化的方式保持 "状态 "的时候，就不可能再有基于数据控制的竞争优势了。现在，人们可以有替代方案来管理自己、归属、互动、参与、分享所有权、创造价值、承担风险和共同投资。DAO的结构和社区聚集的方式构成了价值创造层。
 
 --------------------
-[4]. These can be political systems, donations, cultural works, natural resources, investing, lending etc.    
-[5]. https://makerdao.com/en/whitepaper
+<sup>4</sup>. These can be political systems, donations, cultural works, natural resources, investing, lending etc.    
+<sup>5</sup>. https://makerdao.com/en/whitepaper
 
 ---------------------
 
@@ -159,11 +159,11 @@ DAO第一次让交互、协作、收益分享和风险（组织、社区）可�
 
 - DAOs challenge the traditional hierarchical and exclusive organizational structure as seen in many facets of the world today. Through “wisdom of the crowds” it is possible to have better collective decision making and therefore better-run organizations.
 
-- New products are being made at the intersection of DAOs and Decentralized Finance[6] (DeFi). As DAOs become more decentralized and digitized using DeFi products as the payment/distribution methods, DAOs will increase and lead to new and more DeFi products being formed to interact with DAOs. This will be most powerful where the DeFi implementations allow the token holders to use governance to customize and optimize the design of the parameters of the application creating a better, tailored user-experience. It can also be used for time locking and creating different types of fee structures.
+- New products are being made at the intersection of DAOs and Decentralized Finance<sup>6</sup> (DeFi). As DAOs become more decentralized and digitized using DeFi products as the payment/distribution methods, DAOs will increase and lead to new and more DeFi products being formed to interact with DAOs. This will be most powerful where the DeFi implementations allow the token holders to use governance to customize and optimize the design of the parameters of the application creating a better, tailored user-experience. It can also be used for time locking and creating different types of fee structures.
 
 - DAOs allow for capital to be pooled, that pooled capital to be allocated and to create an asset-backed by that capital. They also allow for non-financial resource allocation. 
 
-- Using DeFi enables DAOs to bypass, if they choose, the traditional banking sector, along with their inefficiencies. This is significant as it creates a Trustless, Borderless, Transparent, Accessible, Interoperable & Composable[7] corporation.
+- Using DeFi enables DAOs to bypass, if they choose, the traditional banking sector, along with their inefficiencies. This is significant as it creates a Trustless, Borderless, Transparent, Accessible, Interoperable & Composable<sup>7</sup> corporation.
 
 - DAO community and governance is very complex and difficult to get right, yet is crucial to the success of the DAO. Coordination processes and incentive measures need to be balanced so that all community members feel that their contributions matter.
 
@@ -177,11 +177,11 @@ DAO第一次让交互、协作、收益分享和风险（组织、社区）可�
 
 - DAO挑战的是传统的等级制和排他性的组织结构，这在当今世界的许多方面都可以看到。通过 "众人的智慧"，可以有更好的集体决策，从而有更好的组织运行。
 
-- 在DAO和去中心化金融[6]（DeFi）的交叉点上，新的产品正在诞生。随着使用DeFi产品作为支付/分配方式的DAO变得更加分散和数字化，DAO将增加，并导致新的和更多的DeFi产品被形成，以与DAO互动。这将是最强大的地方，DeFi实现允许代币持有者使用治理来定制和优化应用的参数设计，创造更好的、量身定制的用户体验。它还可以用于时间锁定和创建不同类型的收费结构。
+- 在DAO和去中心化金融<sup>6</sup>（DeFi）的交叉点上，新的产品正在诞生。随着使用DeFi产品作为支付/分配方式的DAO变得更加分散和数字化，DAO将增加，并导致新的和更多的DeFi产品被形成，以与DAO互动。这将是最强大的地方，DeFi实现允许代币持有者使用治理来定制和优化应用的参数设计，创造更好的、量身定制的用户体验。它还可以用于时间锁定和创建不同类型的收费结构。
 
 - DAO允许汇集资本，对汇集的资本进行分配，并创建由该资本支持的资产。它们还允许进行非金融资源分配。
 
-- 使用DeFi使DAO能够绕过传统的银行部门，以及他们的低效率，如果他们选择的话。这一点非常重要，因为它创造了一个无信任、无边界、透明、可访问、可互操作和可组合的公司。[7]
+- 使用DeFi使DAO能够绕过传统的银行部门，以及他们的低效率，如果他们选择的话。这一点非常重要，因为它创造了一个无信任、无边界、透明、可访问、可互操作和可组合的公司。<sup>7</sup>
 
 - DAO社区和治理是非常复杂和难以做好的，但对DAO的成功至关重要。协调过程和激励措施需要平衡，以使所有社区成员感到他们的贡献很重要。
 
@@ -195,34 +195,34 @@ DAO第一次让交互、协作、收益分享和风险（组织、社区）可�
 
 
 ----------------------------------
-[6]: Decentralized finance uses applications built on open, public blockchains (like Ethereum) to facilitate financial services to anybody, anywhere.     
-[7]: Creating services with other existing projects by plugging existing projects into your project.
+<sup>6</sup>. Decentralized finance uses applications built on open, public blockchains (like Ethereum) to facilitate financial services to anybody, anywhere.     
+<sup>7</sup>. Creating services with other existing projects by plugging existing projects into your project.
 
 -----------------------------------
 
 ## WHAT IS A DAO?
 ## 什么是DAO？
 
-A Decentralized Autonomous Organization (DAO) is an organization where the rules of operation and organizational logic are encoded as a smart contract on a blockchain. The characteristics of a DAO are decentralization, transparency, and independence. The end goal is non-centrally controlled decision making and governance[8]. Note that the rules of operation can include mechanisms to change the rules themselves.
+A Decentralized Autonomous Organization (DAO) is an organization where the rules of operation and organizational logic are encoded as a smart contract on a blockchain. The characteristics of a DAO are decentralization, transparency, and independence. The end goal is non-centrally controlled decision making and governance<sup>8</sup>. Note that the rules of operation can include mechanisms to change the rules themselves.
 
 DAOs are currently formulated as a cross-section of a real-world and digital corporation. This formulation combines blockchain technology, organizational structures, legal entities, workflow execution, governance/voting, incentive structures, and contribution/work. Their decentralized and autonomous elements create the opportunity to realign, streamline and automate organizational structure and operational requirements such as governance, voting, asset/wealth distribution, membership/participation, participant contribution, incentives, financial and legal contracts.
 
 DAOs can also be described as an entity that lives on the internet and exists autonomously. Something (be it record keeping, policy voting, and/or money management) must happen on-chain, or at least through some kind of smart contract(s). For example, driverless cars using toll roads could pay fees, automatically schedule and pay for servicing, or even operate as an Uber collecting fees and deriving revenue.
 
-A DAO is essentially a composition of smart contracts built on decentralized infrastructure. Smart contracts are simply programmable transactions.[9] DAO transactions are programmed to execute when the majority of the voters (voters who hold tokens) find consensus and a pre-programmed outcome is activated as a result of the consensus. DAOs may program different voting thresholds for triggering an action or outcome. (e.g. 75% need to agree not just a 50/50 split, or differing levels of quorum in order to pass voted actions.)
+A DAO is essentially a composition of smart contracts built on decentralized infrastructure. Smart contracts are simply programmable transactions.<sup>9</sup> DAO transactions are programmed to execute when the majority of the voters (voters who hold tokens) find consensus and a pre-programmed outcome is activated as a result of the consensus. DAOs may program different voting thresholds for triggering an action or outcome. (e.g. 75% need to agree not just a 50/50 split, or differing levels of quorum in order to pass voted actions.)
 
-去中心化自治组织(DAO)是一种组织，其运作规则和组织逻辑被编码为区块链上的智能合约。DAO的特点是去中心化、透明和独立。最终目标是非中心化控制的决策和治理[8]。需要注意的是，操作规则可以包括改变规则本身的机制。
+去中心化自治组织(DAO)是一种组织，其运作规则和组织逻辑被编码为区块链上的智能合约。DAO的特点是去中心化、透明和独立。最终目标是非中心化控制的决策和治理<sup>8</sup>。需要注意的是，操作规则可以包括改变规则本身的机制。
 
 DAO目前的表述是现实世界和数字公司的交叉。这种表述结合了区块链技术、组织结构、法律实体、工作流执行、治理/投票、激励结构和贡献/工作。它们的去中心化和自治元素创造了重新调整、简化和自动化组织结构和运营要求的机会，如治理、投票、资产/财富分配、成员/参与、参与者贡献、激励、财务和法律合同。
 
 DAO也可以被描述为一个生活在互联网上并自主存在的实体。一些事情（无论是记录保存、政策投票和/或资金管理）必须在链上发生，或至少通过某种智能合约。例如，使用收费公路的无人驾驶汽车可以支付费用，自动安排和支付服务费用，甚至像Uber一样收取费用并获得收入。
 
-DAO本质上是建立在去中心化基础设施上的智能合约的组成。智能合约就是简单的可编程交易[9]，DAO交易被编程为当大多数投票者（持有代币的投票者）发现共识时执行，并因共识而激活一个预先编程的结果。DAO可以编程不同的投票阈值来触发行动或结果。(例如，需要75%的人同意，而不仅仅是50/50的比例，或不同的法定人数水平，以通过表决的行动。)
+DAO本质上是建立在去中心化基础设施上的智能合约的组成。智能合约就是简单的可编程交易<sup>9</sup>，DAO交易被编程为当大多数投票者（持有代币的投票者）发现共识时执行，并因共识而激活一个预先编程的结果。DAO可以编程不同的投票阈值来触发行动或结果。(例如，需要75%的人同意，而不仅仅是50/50的比例，或不同的法定人数水平，以通过表决的行动。)
 
 -------------------------
-[8]. One of the main benefits of Ethereum is that it enables a community of strangers to pool value together and execute on their shared goals with less need for trust or organizational overhead. Disparate groups of people online can organize by relying on the predictability of blockchain-based “smart contracts” to execute on their group decisions and transfer value according to hard-coded rules in a highly “tamper proof” digital environment. [From OpenLaw]
+<sup>8</sup>. One of the main benefits of Ethereum is that it enables a community of strangers to pool value together and execute on their shared goals with less need for trust or organizational overhead. Disparate groups of people online can organize by relying on the predictability of blockchain-based “smart contracts” to execute on their group decisions and transfer value according to hard-coded rules in a highly “tamper proof” digital environment. [From OpenLaw]
 
-[9]. For a comprehensive overview of smart contracts see:
+<sup>9</sup>. For a comprehensive overview of smart contracts see:
    https://bitsonblocks.net/2016/02/01/gentle-introduction-smart-contracts/
 
 ----------------------------
@@ -292,9 +292,9 @@ _Copyright © 2020 George Samman and David Freuden_
 ## IS DAO A MISNOMER?
 ## DAO是一种误称吗？
 
-For a DAO to be created it requires human decision-making to identify the opportunities, validate the need, possibly find co-collaborators, and to map out the processes that can be automated and built into smart contracts. These are all activities of centralized[10] or distributed teams as coordination, contribution, and communication are key elements to building a DAO.
+For a DAO to be created it requires human decision-making to identify the opportunities, validate the need, possibly find co-collaborators, and to map out the processes that can be automated and built into smart contracts. These are all activities of centralized <sup>10</sup> or distributed teams as coordination, contribution, and communication are key elements to building a DAO.
 
-要创建一个DAO，就需要人的决策，以确定机会，验证需求，可能找到共同合作者，并规划出可以自动化和建立在智能合约中的流程。这些都是集中式[10]或分布式团队的活动，因为协调、贡献和沟通是建立DAO的关键要素。
+要创建一个DAO，就需要人的决策，以确定机会，验证需求，可能找到共同合作者，并规划出可以自动化和建立在智能合约中的流程。这些都是集中式<sup>10</sup>或分布式团队的活动，因为协调、贡献和沟通是建立DAO的关键要素。
 
 ####How do you bootstrap a decentralized system without being in charge  
 ——DAO Founder:Christoph Jentzsch - AraCon 2019
@@ -323,25 +323,25 @@ Because of this centralized to decentralized approach, the definitions around th
 
 The construct of Autonomous (in DAO) is challenging, as the definition begets the question, Autonomous from whom? Organizations still need to operate within the legal framework of jurisdictions of its own structure, as well as the jurisdiction of its participants and members. For example, when a not-for-profit employs people, those people are required to pay the tax within the jurisdiction in which they are citizens. There is also evolving SEC (or other financial regulatory body) guidance on whether governance or operational tokens will be defined as securities, currencies, or commodities. This varies greatly as different DAOs need to prove a certain threshold of decentralization.
 
-Many DAO standards are more iterative than revolutionary. They wish to maintain existing legal and social structures of organizations and implement blockchain for transparency-related tasks such as record keeping, yet still maintain the capacity to use traditional methods if required. From a technological standpoint, DAO forks are also an iterative approach which allow members to take existing code and use it for their expressed purposes in building a DAO which is different from the original DAO. An example of this is Moloch DAO.[11] The code has been forked by other DAO’s in the Ethereum ecosystem.[12] Other smart contract platforms like Kadena have upgradeable code. Pact, which is Kadena’s smart contract language is non-Turing complete (no recursive attacks)[13] and includes formal verification[14] of the code which allows for correctness in the code to be found before smart contracts go live. These iterative technological approaches introduce the transparency and trust layers of blockchain and DAO into an organization’s corporate structure but do not necessarily reduce the legal and technical costs of developing DAOs, nor remove jurisdictional and legal uncertainty.
+Many DAO standards are more iterative than revolutionary. They wish to maintain existing legal and social structures of organizations and implement blockchain for transparency-related tasks such as record keeping, yet still maintain the capacity to use traditional methods if required. From a technological standpoint, DAO forks are also an iterative approach which allow members to take existing code and use it for their expressed purposes in building a DAO which is different from the original DAO. An example of this is Moloch DAO.<sup>11</sup> The code has been forked by other DAO’s in the Ethereum ecosystem.<sup>12</sup> Other smart contract platforms like Kadena have upgradeable code. Pact, which is Kadena’s smart contract language is non-Turing complete (no recursive attacks)<sup>13</sup> and includes formal verification<sup>14</sup> of the code which allows for correctness in the code to be found before smart contracts go live. These iterative technological approaches introduce the transparency and trust layers of blockchain and DAO into an organization’s corporate structure but do not necessarily reduce the legal and technical costs of developing DAOs, nor remove jurisdictional and legal uncertainty.
 
 由于这种从集中到分散的方法，围绕分权部分的定义在DAO到DAO之间有很大的差异，因此，距离更大程度的分权变得容易和被采用,仍然还有很长的路要走。
 
 自治（在DAO中）的构建是具有挑战性的，因为该定义产生了一个问题：自治来自谁？各组织仍然需要在其自身结构的司法管辖区以及其参与者和成员的管辖权的法律框架内运作。例如，当一个非营利组织雇用人员时，这些人必须在其公民管辖范围内缴纳税款。此外，美国证券交易委员会（或其他金融监管机构）也在就治理或运营代币是否定义为证券、货币或商品制定指导意见。由于不同的DAO需要证明一定的去中心化门槛，这一点差别很大。
 
-许多DAO标准更多的是迭代而不是革命性的。他们希望维持组织现有的法律和社会结构，并实施区块链以执行与透明度相关的任务，如记录保存，但仍保持在需要时使用传统方法的能力。从技术的角度来看，DAO分叉也是一种迭代的方法，允许成员获取现有代码并将其用于其表达的目的，从而构建与原始DAO不同的DAO。Moloch DAO[11]就是一个例子。该代码已经被Ethereum生态系统[12]中的其他DAO所分叉。其他智能合约平台，如Kadena，也有可升级的代码。Pact是Kadena的智能合约语言，它是非图灵完备的（没有递归攻击）[13]，并且包括对代码的正式验证[14]，允许在智能合约生效之前发现代码的正确性。这些迭代的技术方法将区块链和DAO的透明度和信任层引入组织的企业结构中，但并不一定能降低开发DAO的法律和技术成本，也不能消除管辖权和法律的不确定性。
+许多DAO标准更多的是迭代而不是革命性的。他们希望维持组织现有的法律和社会结构，并实施区块链以执行与透明度相关的任务，如记录保存，但仍保持在需要时使用传统方法的能力。从技术的角度来看，DAO分叉也是一种迭代的方法，允许成员获取现有代码并将其用于其表达的目的，从而构建与原始DAO不同的DAO。Moloch DAO<sup>11</sup>就是一个例子。该代码已经被Ethereum生态系统<sup>12</sup>中的其他DAO所分叉。其他智能合约平台，如Kadena，也有可升级的代码。Pact是Kadena的智能合约语言，它是非图灵完备的（没有递归攻击）<sup>13</sup>，并且包括对代码的正式验证<sup>14</sup>，允许在智能合约生效之前发现代码的正确性。这些迭代的技术方法将区块链和DAO的透明度和信任层引入组织的企业结构中，但并不一定能降低开发DAO的法律和技术成本，也不能消除管辖权和法律的不确定性。
 
 
 ---------------------
-[10]. https://bzx.network/blog/introducing-bzxdao
+<sup>10</sup>. https://bzx.network/blog/introducing-bzxdao
 
-[11]. https://concourseopen.com/blog/moloch-dao-explained/
+<sup>11</sup>. https://concourseopen.com/blog/moloch-dao-explained/
 
-[12]. It’s important to note this not only applies to DAOs. See the recent Steemit/Hive fork. Hive forked from Steemit after the takeover. The community left Steemit to form Hive. https://hackernoon.com/inside-trons-steem-takeover-attempt-and-the-birth-of-the-hive-blockchain-ya1g63249
+<sup>12</sup>. It’s important to note this not only applies to DAOs. See the recent Steemit/Hive fork. Hive forked from Steemit after the takeover. The community left Steemit to form Hive. https://hackernoon.com/inside-trons-steem-takeover-attempt-and-the-birth-of-the-hive-blockchain-ya1g63249
 
-[13]. Note: This how the DAO was hacked.
+<sup>13</sup>. Note: This how the DAO was hacked.
 
-[14]. https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/
+<sup>14</sup>. https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/
 
 ---------------------
 
@@ -355,7 +355,7 @@ The Base Layer used for DAOs is based on blockchain technology provided by proto
 
 ![](./assets/build-dao-using-ethereum.png)
 
-Other technology pieces for DAOs come from the underlying protocol (but can be forked) such as the core consensus mechanism and Improvement Proposals/software upgrades. Synthetix is taking a slightly different approach to this problem, they are deploying “governance by exception” approach.[15]
+Other technology pieces for DAOs come from the underlying protocol (but can be forked) such as the core consensus mechanism and Improvement Proposals/software upgrades. Synthetix is taking a slightly different approach to this problem, they are deploying “governance by exception” approach.<sup>15</sup>
 
 Governance by exception appoints a council of experts to manage protocol upgrades but allows tokenholders to veto any specific change. This approach focuses on protocol iteration as being critical in the early stages of development. Synthetix is working on this structure with Aragon.
 
@@ -373,7 +373,7 @@ DAO使用的基础层是基于协议提供的区块链技术，如但不限于Et
 
 ![](./assets/build-dao-using-ethereum.png)
 
-DAO的其他技术部分来自底层协议（但可以分叉），比如核心共识机制和改进提案/软件升级。Synthetix对这个问题采取了一种稍微不同的方法，他们正在部署 "异常（exception）治理 "的方法[15]。
+DAO的其他技术部分来自底层协议（但可以分叉），比如核心共识机制和改进提案/软件升级。Synthetix对这个问题采取了一种稍微不同的方法，他们正在部署 "异常（exception）治理 "的方法<sup>15</sup>。
 
 异常（exception）治理任命一个专家委员会来管理协议升级，但允许代币持有人否决任何具体的变化。这种方法侧重于协议迭代，因为在开发的早期阶段，协议迭代是至关重要的。Synthetix正在与Aragon一起研究这种结构。
 
@@ -387,9 +387,9 @@ DAO的其他技术部分来自底层协议（但可以分叉），比如核心�
 
 
 ------------------
-[15]. https://github.com/Synthetixio/SIPs/issues/98
+<sup>15</sup>. https://github.com/Synthetixio/SIPs/issues/98
 
-[16]. McKie, Steven ‘The Year of the DAO Comeback’ (2019)
+<sup>16</sup>. McKie, Steven ‘The Year of the DAO Comeback’ (2019)
     https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980
     
 _governance by exception,异常治理，应该是指针对一些异常的、非一般性的状况进行的治理_ 
@@ -441,9 +441,9 @@ DAO的三角对立的三个方面是基于Albert Hirschman的《叛出、抗议�
 
 - Voice is the articulation of discontent with a product, service, or policy position under conditions. If an individual’s voice is not heard, exit becomes a viable option.
 
-- Loyalty to a firm, mission, or policy platform inhibits leaving or complaining about a bad situation; it thereby effectively suppresses tendencies for both exit and voice.[17]
+- Loyalty to a firm, mission, or policy platform inhibits leaving or complaining about a bad situation; it thereby effectively suppresses tendencies for both exit and voice.<sup>17</sup>
 
-So as Charles Tilley observed: ‘Voice is more effective and likely when the exit is possible but not too easy. Some loyalty is necessary to voice opposition. If there’s no loyalty and exit is impossible, people will have no choice but to suffer in silence. If there is absolute loyalty, no one will voice opposition.’[18]
+So as Charles Tilley observed: ‘Voice is more effective and likely when the exit is possible but not too easy. Some loyalty is necessary to voice opposition. If there’s no loyalty and exit is impossible, people will have no choice but to suffer in silence. If there is absolute loyalty, no one will voice opposition.’<sup>18</sup>
 
 - 当出现下列情况之一时，叛出即形成：
   - (1)离开自己不喜欢的环境；
@@ -453,9 +453,9 @@ So as Charles Tilley observed: ‘Voice is more effective and likely when the ex
 
 - 抗议是在一定条件下表达对产品、服务或政策立场的不满。如果一个人的抗议听不见，叛出就成了一个可行的选择。
 
-- 对公司、任务或政策平台的忠诚抑制了离开或抱怨糟糕的情况；从而有效地抑制了叛出和抗议的倾向[17]。
+- 对公司、任务或政策平台的忠诚抑制了离开或抱怨糟糕的情况；从而有效地抑制了叛出和抗议的倾向<sup>17</sup>。
 
-因此，正如 Charles Tilley 所观察到的：“当叛出是可能的，但不太容易的时候，抗议更有效，也更有可能。有些忠诚是表达反对意见的必要条件。如果没有忠诚，叛出是不可能的，人们将别无选择，只能默默忍受。如果有绝对的忠诚，就不会有人发出反对的声音。”[18]
+因此，正如 Charles Tilley 所观察到的：“当叛出是可能的，但不太容易的时候，抗议更有效，也更有可能。有些忠诚是表达反对意见的必要条件。如果没有忠诚，叛出是不可能的，人们将别无选择，只能默默忍受。如果有绝对的忠诚，就不会有人发出反对的声音。”<sup>18</sup>
 
 
 A DAO, like any organization, must balance the forces of voice, exit, and loyalty. The extent to which a DAO respects the sovereign nature of the individual is the extent to which it permits exit. The Individual is all about **autonomy in participation**. The Individual can choose when to join a DAO and when to leave a DAO as well as choose to participate and vote in all other decisions of the DAO (use their voice). It maps to free will. The Individual is Exit. Governance mechanisms are the DAO specific design space associated with Voice. Participating in governance and attempting to improve the DAO by being active is governance. This is the Individual using his voice for the greater good. To strengthen governance requires strengthening the voice and weakening incentives for the exit. Decentralization is like Hirschman's concept of loyalty. Decentralization not only describes the technology platform but the attributes and ethos of those who choose to participate in the DAO. It is loyalty which influences whether participants in a DAO will lean towards voice or exit, all else being equal. For DAOs, decentralization along with the people and their motives behind the DAO are the major factors influencing the credibility of the project.
@@ -469,7 +469,7 @@ A DAO, like any organization, must balance the forces of voice, exit, and loyalt
 
 Highly centralized organizations engender disloyalty and skepticism (e.g. XRP). Decentralized ones gain a passionate following that may lean towards voice rather than simply leaving, even though it is possible (e.g. MakerDAO). Voice and exit come at the expense of one another. If it is easier to exit, the mechanisms of voice lose some of their importance. If the mechanisms of voice become more binding, it is harder to exit. Loyalty and decentralization influence how these mechanisms are implemented. Decentralization makes mechanism design more difficult, whether it is a voice or exit mechanism, but engenders greater loyalty to the DAO as a whole.[19]
 
-高度集中的组织会引起不忠诚和怀疑(如XRP)。分散的组织会获得热情的追随者，他们可能倾向于发出抗议，而不是简单地离开，尽管这是有可能的(如MakerDAO)。抗议和叛出是以牺牲对方为代价的。如果退出更容易，抗议机制就会失去一些重要性。如果话语权机制变得更有约束力，退出就更难。忠诚度和分权会影响这些机制的实施方式。不管是话语权机制还是退出机制，分权都会使机制设计更加困难，但会使人们对整个DAO产生更大的忠诚度[19]。
+高度集中的组织会引起不忠诚和怀疑(如XRP)。分散的组织会获得热情的追随者，他们可能倾向于发出抗议，而不是简单地离开，尽管这是有可能的(如MakerDAO)。抗议和叛出是以牺牲对方为代价的。如果退出更容易，抗议机制就会失去一些重要性。如果话语权机制变得更有约束力，退出就更难。忠诚度和分权会影响这些机制的实施方式。不管是话语权机制还是退出机制，分权都会使机制设计更加困难，但会使人们对整个DAO产生更大的忠诚度<sup>19</sup>。
 
 The components of the DAO Tension Triangle are:
 
@@ -536,11 +536,11 @@ To better understand the DAO Tension Triangle it’s important to understand bot
 
 
 -------------
-[17]. Matthew T. Witt (2011) Exit, Voice, Loyalty Revisited, Public Integrity, 13:3, 239-252
+<sup>17</sup>. Matthew T. Witt (2011) Exit, Voice, Loyalty Revisited, Public Integrity, 13:3, 239-252
 
-[18]. Charles Tilly (1977) “From Mobilization To Revolution”
+<sup>18</sup>. Charles Tilly (1977) “From Mobilization To Revolution”
 
-[19]. Inspirations from this came from conversations with Charlie Smith from Reserve.
+<sup>19</sup>. Inspirations from this came from conversations with Charlie Smith from Reserve.
 
 -------------
 
@@ -567,7 +567,7 @@ Governance deals with many issues which relate to the community as opposed to th
 
 DAOs have varying degrees of governance “on-chain” and have governance rules for which members can vote and how.
 
-Depending on the importance of the issues, the governance rules of the DAO may limit the ability to vote on the issue, such as funding grants (e.g. cannot vote for your own proposal or sponsored proposals) or the need to activate a pause / kill-switch in event of funding breach,[20] such as the recent BzX attack.[21] If controlled by a few people, this limits decentralization.
+Depending on the importance of the issues, the governance rules of the DAO may limit the ability to vote on the issue, such as funding grants (e.g. cannot vote for your own proposal or sponsored proposals) or the need to activate a pause / kill-switch in event of funding breach,<sup>20</sup> such as the recent BzX attack.<sup>21</sup> If controlled by a few people, this limits decentralization.
 
 Governance activities that happen external to the protocol are called “off-chain” governance, They include: negotiating and entering third party contracts, hiring/firing, and voting (can be on-chain or offchain).
 
@@ -592,42 +592,42 @@ The complexities between stakeholders and their bargaining power makes designing
 
 DAOs有不同程度的 "链上 "治理，并有关于成员可以投票和如何投票的治理规则。
 
-根据问题的重要性，DAO的治理规则可能会限制对问题进行投票的能力，例如资金补助（例如不能对自己的提案或赞助的提案进行投票），或者在资金违规的情况下需要启动暂停/终止开关[20]，例如最近的BzX攻击[21]。如果由少数人控制，这就限制了去中心化。
+根据问题的重要性，DAO的治理规则可能会限制对问题进行投票的能力，例如资金补助（例如不能对自己的提案或赞助的提案进行投票），或者在资金违规的情况下需要启动暂停/终止开关<sup>20</sup>，例如最近的BzX攻击<sup>21</sup>。如果由少数人控制，这就限制了去中心化。
 
 发生在协议外部的治理活动称为“链外”治理，它们包括：协商和签订第三方合同、雇佣/解雇和投票（可以是链上或链下）。
 
 利益相关者之间的复杂性及其讨价还价能力使得区块链治理机制的设计变得困难，并可能挑战DAO的去中心化目标。
 
 ---------------
-[20]. This applies to a singularly controlled pause-switch, but not if it were a collective super-majority vote. Similarly the constraint to not vote on your own proposal doesn't necessarily mean it's less decentralised, but merely the rules of the DAO individuals vote into. This is similar to quadratic voting.
+<sup>20</sup>. This applies to a singularly controlled pause-switch, but not if it were a collective super-majority vote. Similarly the constraint to not vote on your own proposal doesn't necessarily mean it's less decentralised, but merely the rules of the DAO individuals vote into. This is similar to quadratic voting.
 
-[21]. https://haseebq.com/flash-loans-why-flash-attacks-will-be-the-new-normal/
+<sup>21</sup>. https://haseebq.com/flash-loans-why-flash-attacks-will-be-the-new-normal/
 
 ---------------
 
 ## DECENTRALIZATION - INDIVIDUAL
 ## 权力下放--个人
 
-The larger a decentralized structure becomes the lower the participation rate tends to be. In larger DAOs, the individual may be more marginalized and choose not to participate or be passive, particularly if proxy voting or staking coins through an exchange or pool whereby an individual gives up voting power and the right to participate in governance. If the DAO has a controlling voting entity this has a similar effect, reducing the incentive to participate in DAO governance for individuals. The most recent example of this at the time of writing is the Steemit/Tron hardfork.[22]
+The larger a decentralized structure becomes the lower the participation rate tends to be. In larger DAOs, the individual may be more marginalized and choose not to participate or be passive, particularly if proxy voting or staking coins through an exchange or pool whereby an individual gives up voting power and the right to participate in governance. If the DAO has a controlling voting entity this has a similar effect, reducing the incentive to participate in DAO governance for individuals. The most recent example of this at the time of writing is the Steemit/Tron hardfork.<sup>22</sup>
 
 The larger the DAO gets, the less influence the individual exercises as their perception of their voting power becomes diminished or inconsequential once the individual becomes a smaller part of a large group. This can be seen via Dunbar's Rule and the Ringelmann Effect, which states that members of a group become lazier, disenfranchised, and more detached as the size of their group increases. This stems from the assumption that “someone else is probably taking care of that.” In the real world, this occurs in every election cycle in countries where voting is optional, where everyone has the right to vote but only a small percent of people actually do vote.
 
 The MetaCartel (MCV) Whitepaper highlights these tradeoffs:
 
-“MCV’s goal is to facilitate a DAO with a focus on open participation where its members are enabled to have a radical level of flexibility in their continued involvement, all while having a right to participate in the management of the DAO (investment decisions, asset management, membership admissions). These goals are naturally in tension: If MCV becomes too open too quickly, the community runs a high risk of either lapsing into a traditional leader/follower org structure or fragmenting into dysfunctional cliques. If MCV is too rigid, it will miss critical opportunities to build the community. MCV will carefully consider all such social, legal, and technical factors to enable a continuous, dynamic readjustment of this delicate balance.[23]
+“MCV’s goal is to facilitate a DAO with a focus on open participation where its members are enabled to have a radical level of flexibility in their continued involvement, all while having a right to participate in the management of the DAO (investment decisions, asset management, membership admissions). These goals are naturally in tension: If MCV becomes too open too quickly, the community runs a high risk of either lapsing into a traditional leader/follower org structure or fragmenting into dysfunctional cliques. If MCV is too rigid, it will miss critical opportunities to build the community. MCV will carefully consider all such social, legal, and technical factors to enable a continuous, dynamic readjustment of this delicate balance.<sup>23</sup>
 
-分散式结构越大，参与率往往越低。在规模较大的DAO中，个人可能会被更多地边缘化，选择不参与或被动参与，特别是如果通过交易所或资金池进行代理投票或押币，个人放弃了投票权和参与治理的权利。如果DAO有一个控股的投票实体，这也会产生类似的效果，降低个人参与DAO治理的动力。在编写本报告时，最近的例子是 Steemit/Trond 的硬分叉。[22]
+分散式结构越大，参与率往往越低。在规模较大的DAO中，个人可能会被更多地边缘化，选择不参与或被动参与，特别是如果通过交易所或资金池进行代理投票或押币，个人放弃了投票权和参与治理的权利。如果DAO有一个控股的投票实体，这也会产生类似的效果，降低个人参与DAO治理的动力。在编写本报告时，最近的例子是 Steemit/Trond 的硬分叉。<sup>22</sup>
 
 DAO越大，个人的影响力就越小，因为一旦个人成为一个大群体的小部分，他们对自己投票权的认识就会减弱或变得无足轻重。这一点可以通过邓巴规则和林格尔曼效应看出，随着群体规模的扩大，群体成员会变得更懒惰、失去权利、更加疏离。这源于 "可能有其他人在处理"的假设。在现实世界中，这种情况在每个选举周期都会发生，在那些投票是可选的国家，每个人都有投票权，但只有一小部分人真正投票。
 
 MetaCartel（MCV）白皮书强调了这些权衡：
 
-“MCV的目标是促进DAO的开放式参与，使其成员能够在继续参与的过程中拥有激进的灵活性，同时有权参与DAO的管理（投资决策、资产管理、成员准入）。这些目标自然而然地处于紧张状态：如果MCV过于开放，社区面临着很高的风险，要么陷入传统领导/追随者组织结构，要么分裂成功能失调的集团。如果MCV过于僵化，它将错过建设社区的关键机会。MCV将仔细考虑所有这些社会、法律和技术因素，以便持续、动态地调整这种微妙的平衡。[23]
+“MCV的目标是促进DAO的开放式参与，使其成员能够在继续参与的过程中拥有激进的灵活性，同时有权参与DAO的管理（投资决策、资产管理、成员准入）。这些目标自然而然地处于紧张状态：如果MCV过于开放，社区面临着很高的风险，要么陷入传统领导/追随者组织结构，要么分裂成功能失调的集团。如果MCV过于僵化，它将错过建设社区的关键机会。MCV将仔细考虑所有这些社会、法律和技术因素，以便持续、动态地调整这种微妙的平衡。<sup>23</sup>
 
 -------------
-[22]. https://cointelegraph.com/news/steem-community-resists-takeover-hard-fork-launches-hive-network
+<sup>22</sup>. https://cointelegraph.com/news/steem-community-resists-takeover-hard-fork-launches-hive-network
 
-[23]. From the Metacartel Whitepaper: https://github.com/metacartel/MCV/blob/master/Whitepaper.pdf
+<sup>23</sup>. From the Metacartel Whitepaper: https://github.com/metacartel/MCV/blob/master/Whitepaper.pdf
 
 --------------
 
@@ -678,13 +678,13 @@ In 'The Modern Corporation and Private Property', by Adolf Berle and Gardiner Me
 
 It is important that DAOs are structured to ensure that management is correctly incentivized to operate for the long term good of the DAO and all their stakeholders. Otherwise, they risk enabling the Principal Agent problem that has grown in many corporations.
 
-The Principal Agent problem occurs, and recurs, when one person or central entity (the "agent"), is able to make decisions and/or take actions on behalf of, or that impact, another person or entity: the "principal".[1] This dilemma exists in circumstances where agents are motivated to act in their own best interests, which are contrary to those of their principals, and is an example of moral hazard. One example of this behaviour has been the recent and widespread share buybacks of public companies so that agents can benefit disproportionately through bonuses and incentives, at the cost of the long term health of the corporation, such as having cash-on-hand to manage economic downturns.
+The Principal Agent problem occurs, and recurs, when one person or central entity (the "agent"), is able to make decisions and/or take actions on behalf of, or that impact, another person or entity: the "principal".<sup>1</sup> This dilemma exists in circumstances where agents are motivated to act in their own best interests, which are contrary to those of their principals, and is an example of moral hazard. One example of this behaviour has been the recent and widespread share buybacks of public companies so that agents can benefit disproportionately through bonuses and incentives, at the cost of the long term health of the corporation, such as having cash-on-hand to manage economic downturns.
 
 For DAO governance, even if record keeping is the only function utilizing blockchain tech via a digital registry, this is still a great transparency improvement over existing infrastructure. Individual voting decisions about corporate affairs can be more efficiently implemented if proxy advisory services can advise individual investors directly, and advisory services can provide oracle services to the smart contracts (smart votes) in order to automate individual voting.
 
 The governance rules that have been developed for DAOs so far are generally rather simple and lack innovation. This is not just a DAO problem but a problem in global democracies. Using blockchain technology, new approaches to the problems surrounding democratic governance can be designed to improve:
 
-- Types of voting (eg majority voting, consensus voting, simultaneous voting, multi-stage voting, futarchy.[24])
+- Types of voting (eg majority voting, consensus voting, simultaneous voting, multi-stage voting, futarchy.<sup>24</sup>)
 
 - When to vote, and when to use sortition (random choice)
 - Leaders (term limits?)/ Leaderless / Delegation
@@ -699,11 +699,11 @@ DAOs, as they exist now, will not be able to change how dispute resolution occur
 
 当一个人或中央实体("代理人")能够代表另一个人或实体(即 "委托人")作出决定和/或采取行动，或影响到另一个人或实体时，就会出现并反复出现委托人代理问题[1]。这种两难的情况存在于代理人为了自己的最大利益而行事的情况，而这种利益与其委托人的利益相悖，是道德风险的一个例子。这种行为的一个例子是，最近上市公司普遍回购股票，使代理人可以通过奖金和奖励获得不成比例的利益，而代价是公司的长期健康发展，例如拥有手头的现金来管理经济衰退。
 
-对于DAO治理，即使记录保存是通过数字注册使用区块链技术的唯一功能，这仍然是对现有基础设施的一个巨大的透明度改进。如果代理咨询服务可以直接为个人投资者提供建议，咨询服务可以为智能合约（智能投票）提供谕旨（智囊）服务，以实现个人投票的自动化，那么有关公司事务的个人投票决策就可以更有效地实施。
+对于DAO治理，即使记录保存是通过数字注册使用区块链技术的唯一功能，这仍然是对现有基础设施的一个巨大的透明度改进。如果代理咨询服务可以直接为个人投资者提供建议，咨询服务可以为智能合约（智能投票）提供预言机服务，以实现个人投票的自动化，那么有关公司事务的个人投票决策就可以更有效地实施。
 
 到目前为止，已经制定的DAO的治理规则普遍比较简单，缺乏创新。这不仅是DAO的问题，也是全球民主制度的问题。利用区块链技术，可以设计新的方法来改善民主治理的问题。
 
-- 投票的类型（如多数投票、共识投票、同步投票、多阶段投票、futarchy. [24]）
+- 投票的类型（如多数投票、共识投票、同步投票、多阶段投票、futarchy. <sup>24</sup>）
 - 何时投票，何时使用排序（随机选择）？
 - 领导人(任期限制?)/无领导人/授权制。
 - 参与激励措施吸引选民投票
@@ -713,8 +713,357 @@ DAOs, as they exist now, will not be able to change how dispute resolution occur
 目前存在的DAO将无法改变解决争端的方式，但是，它们将减少许多可能需要解决争端的情况。
 
 ------------------------
-[^footnote24]: A form of government proposed by economist Robin Hanson, in which elected officials define measures of national wellbeing, and prediction markets are used to determine which policies will have the most positive effect.
+<sup>24</sup>. A form of government proposed by economist Robin Hanson, in which elected officials define measures of national wellbeing, and prediction markets are used to determine which policies will have the most positive effect.
 
-[^footnote25]: Sortition is a way to obtain both scalability and resistance to "demagogues"
+<sup>25</sup>. Sortition is a way to obtain both scalability and resistance to "demagogues"
 
 ------------------------
+
+### Example of Governance: MakerDAO Deleveraging Spiral (Black Thursday) <sup>26</sup>
+### 治理示例：MakerDAO去杠杆化螺旋（黑色星期四）<sup>26</sup>
+
+Following the crypto collapse, MKR protocol and MKR governance were able to come to an agreement on governance changes to fix the protocol.
+
+The crypto collapse removed over 50% in value from ETH, BTC, and the crypto market in general. This had a major impact on MKR as it caused a deleveraging spiral. 
+
+Ariah Klages Mundt<sup>27</sup> describes this as speculators being forced to repurchase stablecoins at increasing prices as liquidity in the market dries up.<sup>28</sup>
+
+The speed of the drop in asset prices and the liquidity dries up in the market caused network congestion. High gas prices caused transaction delays and transaction failures. This, in turn, affected the entire Maker ecosystem and its oracles, the pricing data sources for collateral, were affected by the same delays as everyone else.
+
+According to MakerDAO:
+
+“As a result of this, a large number of auctions were triggered, and a subset of those auctions won by bidders who submitted bids decimal points above zero (“zero bidders” submitting “zero bids”). Events leading up to and on March 12 caused an extreme ecosystem-wide shortage of Dai, resulting in Dai struggling to maintain its soft peg to the US Dollar. The unprecedented drop in collateral value triggered auctions for around 1,200 Vaults. Given the network congestion and lack of liquidity, Keepers did not have sufficient Dai or capacity to participate in all 4,447 triggered auctions. Consequently, zero bids could not be challenged as expected under normal market conditions, which resulted in a number of zero bidders winning auctions.”
+
+在加密崩盘后，MKR协议和MKR治理层能够就治理变更达成协议，以修复协议。
+
+加密崩盘使ETH、BTC以及整个加密市场的价值被移除了50%以上。这对MKR产生了重大影响，因为它导致了去杠杆化的螺旋。
+
+Ariah Klages Mundt<sup>27</sup>将其描述为随着市场流动性的枯竭，投机者被迫以越来越高的价格回购稳定币。<sup>28</sup>
+
+![](./assets/Mundt-deleveraging-spiral-diagram.png)
+
+
+资产价格下跌速度快，市场流动性枯竭造成网络拥堵。高gas价格造成交易延迟和交易失败。这反过来又影响了整个Maker生态系统，它的预言机、抵押品的定价数据来源，也和其他人一样受到了延迟的影响。
+
+根据MakerDAO的说法：
+
+>"由于这个原因，大量的拍卖被触发，其中有一部分拍卖是由出价小数点后高于零（近乎于0）的竞拍者（"零竞拍者 "提交 "零竞拍"）赢得。3月12日之前和3月12日发生的事件造成了整个生态系统的极度短缺，导致Dai难以维持与美元的软挂钩。抵押品价值的空前下降引发了约1200个账户（Vaults，金库，这里应该是指1200个地址账户）的拍卖。鉴于网络拥堵和缺乏流动性，Keepers没有足够的Dai或能力去参与所有的4,447次触发拍卖。因此，在正常的市场条件下，无法按预期挑战零竞价，导致一些零竞价者在拍卖中获胜。"
+
+
+--------------------
+<sup>26</sup>. The Market Collapse of March 12 2020: ‘How it Impacted MackerDAO’ Medium.
+https://blog.makerdao.com/the-market-collapse-of-march-12-2020-how-it-impacted-makerdao/
+
+<sup>27</sup>. PhD student Cornell Univerity, applied math. Klages Mundt works on complex systems, including stablecoin and DeFi design and network cascades.
+
+<sup>28</sup>. https://www.youtube.com/embed/NxpsHA_5Lr4?start=1157&end=1225
+
+<sup>29</sup>. https://medium.com/coinmonks/insights-from-modeling-stablecoins-a30e732aef1b
+
+-------------------
+
+### Decentralized Governance In A DAO
+### DAO中的分布式治理
+
+After this massive liquidity event happened the community came together in the Maker Governance Forum to discuss the events and how to best react. MKR holders voted to pass an executive vote to adjust the auction parameters for a limited time to be more congruent with the operational capacity of the Ethereum blockchain. A vote to adjust the risk parameters in response to Dai pushing above the target rate of $1 followed. Next, Governance proposed the addition of a collateral type uncorrelated with the crypto market to provide diversification and a further source of liquidity. An executive vote resulted, adding USDC as a collateral type. Maker Governance moved fast to vote in Debt Auction parameter fixes and changes and additions to the system. The community also launched further analytic tools, allowing observers to better follow system fixes and changes.
+
+When there is a crisis in governance, it is important to be nimble and adaptive and quick to organize and respond as Maker did in this evolving and unprecedented situation. The governance process needs to be user-friendly and structured and remains that way so decisions can be voted on and executed. In this situation, it was the ability to quickly onboard new collateral types and change risk and auction parameters. It is important to note that getting community involvement, participation, and consensus on these issues leads to a stronger DAO and further strengthens the governance mechanisms.
+
+Another example of a project that has moved toward decentralized governance is Compound. Compound has moved to a DAO like structure where they have issued a governance token COMP which gives all those who own the token the right to participate in community governance and vote on all changes to the protocol (eg adding assets, system parameters).<sup>30</sup>
+
+
+在这次大规模的流动性事件发生后，社区在Maker治理论坛上一起讨论了事件以及如何做出最佳反应。MKR持有者投票通过了执行投票，限时调整拍卖参数，使之更符合Ethereum区块链的运行能力。随后，投票通过调整风险参数，以应对 Dai 推高1美元的目标汇率。接下来，治理层提议增加一种与加密市场无关的抵押品类型，以提供多样化和进一步的流动性来源。高管投票结果是，增加USDC作为抵押品类型。Maker治理层快速行动，对债权拍卖的参数修复以及系统的修改和添加进行了投票。社区还推出了进一步的分析工具，让观察者更好地跟踪系统的修复和变化。
+
+当治理方面出现危机时，重要的是要像Maker在这种不断变化和前所未有的情况下所做的那样，能够灵敏反应、适应并迅速组织和应对。治理过程需要对用户友好、结构化，并保持这种方式，这样才能对决策进行表决和执行。在这种情况下，就是能够快速上线新的抵押品类型，改变风险和拍卖参数。需要注意的是，在这些问题上获得社区的参与、参与和共识，会带来更强大的DAO，并进一步加强治理机制。
+
+另一个走向去中心化治理的项目是Compound。Compound已经转向类似DAO的结构，他们发行了一个治理令牌COMP，让所有拥有该令牌的人有权参与社区治理，并对协议的所有变化进行投票（例如添加资产、系统参数）。<sup>30</sup>
+
+
+Melonport AG was one of the first companies to wind itself down after the main-net launch and implement its promise of fully decentralized governance. In Feb 2019, Melonport AG handed over control of the protocol to the Melon Council DAO (MCD).<sup>31</sup> The Melon Council DAO is composed of known parties who can bring technical expertise into the Melon ecosystem. The Melon Council DAO is also open to nominated user representatives. The design of the DAO was intended to protect and represent Melon users who have held the most tokens if something were to go wrong. The DAO currently runs on aragonOS and decisions can be monitored.<sup>32</sup>
+
+**“The Melon Council DAO has been operating for over a year now. One year on; KyberDAO, Compound, MakerDAO, and SynthetixDAO are unveiling plans to fully decentralize and we’re starting to see the beginnings of a truly self-sustainable financial infrastructure becoming a reality. As more protocols fulfill the decentralization promise, we are set up to learn a lot about how robust the different governance designs hold up in times of crisis. The DeFi DAO models that survive will likely become the DeFi rails for the next few decades.” Mona El-Isa, Founder of Melon Protocol & Avantgarde Finance**
+
+Melonport AG是第一批在主网推出后逐步退出并实现其完全分散治理承诺的公司之一。2019年2月，Melonport AG将协议的控制权移交给Melon理事会DAO（MCD）。<sup>31</sup> Melon委员会DAO由能够为Melon生态系统带来技术专长的已知各方组成。Melon理事会DAO也对提名的用户代表开放。DAO的设计旨在保护和代表那些持有最多代币的Melon用户，如果在出了问题的时候。DAO目前运行在aragonOS上，决策可以被监控。<sup>32</sup>
+
+**"Melon理事会DAO已经运作了一年多。一年过去了；KyberDAO、Compound、MakerDAO和SynthetixDAO正在公布完全去中心化的计划，我们开始看到一个真正可自我维持的金融基础设施的开始正在成为现实。随着更多的协议实现去中心化的承诺，我们将了解到很多关于不同的治理设计在危机时期的稳健性。存活下来的DeFi DAO模式很可能会成为未来几十年的DeFi轨道。" 
+——Melon Protocol & Avantgarde Finance创始人Mona El-Isa**
+
+
+
+--------------
+<sup>30</sup>. Leshner, Robert ‘Compound Governance is Live’ Medium. 
+https://medium.com/compound-finance/compound-governance-decentralized-b18659f811e0
+
+<sup>31</sup>. https://melonprotocol.com/docs/governance/
+
+<sup>32</sup>. https://mainnet.aragon.org/#/0xfe1f2de598f42ce67bb9aad5ad473f0272d09b74/home/
+
+-------------------
+
+
+## COMMON DAO GOVERNANCE CHALLENGES
+## 常见的DAO治理挑战
+
+### Governance Systems
+### 治理系统
+
+A common element required across all DAOs is a decentralized governance system: an efficient and resilient engine for collective decision-making at scale. The possibility of thousands or millions of people to make decisions together, quickly and wisely. Consequently, a DAOs greatest challenge is effectively coordinating the dissemination and communication of information and decisions to all members.<sup>33</sup>
+
+所有的DAOs都需要一个共同的要素，那就是分布式治理系统：一个高效而有弹性的可用于大规模集体决策的引擎。数千人或数百万人有可能迅速而明智地共同作出决定。因此，DAOs的最大挑战是有效地统筹面向所有成员的信息与决策的传播和交流。<sup>33</sup>
+
+### Staking/Masternodes
+### 质押/主节点
+
+This governance model is based on “skin in the game”. Where those who own the most tokens are either masternodes or weighted heavier (based on the amount of tokens owned) in governance decisions. In theory, this should solve the loyalty problem as these nodes/stakers have more to lose than anyone as a result of poor governance decisions. However, it under-represents large portions of the network. This leads to the centralization of the network as a disproportionately powerful minority is making decisions for the entire network. Voting mechanisms such as **quadratic voting**<sup>34</sup> and **conviction voting**<sup>35</sup> attempt to mitigate against this.
+
+Examples of protocols using masternodes are Dash and EOS. In the Dash ecosystem, a portion of the block reward is held in escrow to be used for the development of the network based on what budget proposals are voted for by the Masternodes and therefore get funded. This gives the blockchain the ability to “mint money” for proposals since voting and funding is built into the protocol. Proposals can sit for a long time and once they hit a threshold are minted. While there is a pool of capital this has to be traded off on masternode/stake voting. Once a vote is accepted, the funding is minted and the block reward gets allocated for these proposals.
+
+这种治理模式是基于 "风险共担"。那些拥有最多代币的人在治理决策中要么是主节点，要么是权重较高的节点（基于拥有的代币数量）。理论上，这应该可以解决忠诚度问题，因为这些节点/决策者由于治理决策不力而比任何人都要失去更多。然而，它对网络中的大部分内容反映不足。这导致了网络的集中化，因为一个不成比例的少数人在为整个网络做决策。**二次表决**<sup>34</sup>和**定罪表决**<sup>35</sup>等投票机制试图缓解这种情况。
+
+使用masternodes的协议的例子有Dash和EOS。在Dash生态系统中，区块奖励的一部分以代管方式持有，用于根据主节点投票的预算提案开发网络，从而获得资金。这让区块链有能力为提案 "铸钱"，因为投票和资金是内置在协议中的。提案可以放置很长时间，一旦达到门槛就会被铸造出来。虽然有一个资金池，但这必须在主节点/质押投票上进行权衡。一旦投票被接受，资金就会被铸造出来，区块奖励就会分配给这些提案。
+
+### Shadow Voting
+### 影子投票
+
+A shadow vote is a vote cast by a token holder with no economic stake in the protocol. This can be accomplished by borrowing a governance token, voting with it, then returning it to the lender. In the worst case, a shadow vote can be virtually free. The attacker executes a flash loan, votes, and returns the loan within a single atomic transaction, incurring no capital carrying costs or interest payments. There are also Dark DAOs which are decentralized cartels that buy on-chain votes opaquely. In more ideal cases, the attacker is forced to bear capital carrying costs, to pay interest for an extended period, or to expose their collateral to margin calls and penalties.
+
+Protocols cannot control second-market interest rates, but they can influence the "cost of governance" by manipulating how much time it takes to complete the voting process.<sup>37</sup> 
+
+In any system where a token can influence governance, it exposes the voting process to collusion and bribery around key decision making. This is one of the biggest attack vectors within a DAO. Plutocracy and cartel-like behavior need to be addressed in the ruleset from the conception in order for a DAO to be a viable, well-functioning, and resilient entity.
+
+
+影子投票是指在协议中没有经济利益的代币持有人所投的一票。这可以通过借用治理代币，用它投票，然后将其返还给贷款人来实现。在最坏的情况下，影子投票可以几乎是免费的。攻击者在单次原子交易内执行闪贷、投票和归还借款，不会产生任何资本账面成本或利息支付。还有一些黑暗的DAO是分布式联盟体(cartel)，他们不透明地购买链上选票。在更理想的情况下，攻击者被迫承担资本持有成本，支付较长期限的利息，或使其抵押品面临追加保证金和罚款。
+
+协议无法控制二级市场利率，但它们可以通过操纵完成投票过程所需的时间来影响 "治理成本"。<sup>37</sup>
+
+在任何一个代币可以影响治理的系统中，它将投票过程暴露在围绕关键决策的勾结和贿赂中。这是DAO内最大的攻击载体之一。为了使DAO成为一个可行的、运作良好的、有弹性的实体，需要从概念上在规则集中解决财阀和卡特尔式行为。
+
+
+### DAO Identity
+### DAO身份
+
+DAOs have varying requirements of identity, ranging from no formal KYC requirement where members remain pseudonymous and are known only by their avatars, such as MetaCartel, through to a DAO requiring social media accounts to be linked to members identity, such as RocketDao. The requirement and type of identity is DAO specific, yet this may change if voted on by DAO members, as DAOs scale beyond their initial group of shared-vision collaborators or possibly if legal and regulatory compliance enforces identity requirements.
+
+In addition to the potential legal requirements for member identity, governance and voting can also be impacted by identity choice. If you can’t be identified sufficiently in some cases it may impact your member rights. These can range from KYC/AML of government-issued identity documents through to using existing reputation-based networks such as Google, Facebook, and Twitter to verify identities. Whilst centralized, these networks do defend against fake users, bots, spam links, etc. (Sibyl attacks) by using proprietary, closed-source data, and algorithms.
+
+New DAOs such as SourceCred are developing their own contribution based identity that tracks and assigns reputation and credibility to members based on quality and quantity of contribution.<sup>38</sup>
+
+
+DAO对身份的要求各不相同，有的没有正式的KYC要求，即成员保持假名，只通过其头像为人所知，如MetaCartel，有的DAO要求社交媒体账户与成员身份相联系，如RocketDao。身份的要求和类型是DAO所特有的，然而，如果DAO成员投票通过，随着DAO的规模超出其最初的共同愿景合作者群体，或者如果法律和监管合规性强制执行身份要求，这种情况可能会改变。
+
+除了对成员身份的潜在法律要求外，治理和投票也会受到身份选择的影响。如果在某些情况下不能充分识别您的身份，可能会影响您的成员权利。这些身份包含了从政府颁发的身份文件的KYC/AML到使用现有的基于信誉的网络，如Google、Facebook和Twitter来验证身份。虽然这些网络是集中式的，但它们确实可以通过使用虚假用户、机器人、垃圾链接等，通过使用专有的闭源数据和算法来防御（Sibyl攻击）。
+
+新的DAO（如SourceCred）正在开发他们自己的基于贡献的身份，根据贡献的质量和数量来跟踪和分配成员的声誉和可信度。<sup>38</sup>
+
+
+
+
+-------------------
+<sup>33</sup>. Based on a conversation with PeterPan, co-founder of Metacartel
+
+<sup>34</sup>. https://towardsdatascience.com/what-is-quadratic-voting-4f81805d5a06
+
+<sup>35</sup>. https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475
+
+<sup>37</sup>. Monegro, Joel (2020) ‘How much Does a Crypto-Vote Cost’ Placeholder 7 Jan 2020 - https://www.placeholder.vc/blog/2020/1/7/how-much-does-a-crypto-vote-cost
+
+<sup>38</sup>. https://sourcecred.io/docs/concepts/cred
+
+----------------
+
+
+## DAO ARBITRATION AS A SERVICE
+## DAO仲裁服务
+
+
+Aragon has introduced a novel system for DAO Governance called Aragon Court which can be referred to as Dispute Resolution as a Service (DRAAS).<sup>39</sup> The Aragon Network already has a native token, ANT. This token is used for governance in Aragon Network votes, with which ANT holders have the opportunity to set the direction of the project and how it allocates its resources. Governance tokens are a common feature of DAOs and are used solely for the aforementioned purposes. There are some issues with regard to these types of tokens which will be mentioned in a later section. Aragon Court has its own native token, ANJ. This alternative token system is used as there is a jury selection process and ANJ is a work token so bad jurors can be punished as they have to stake ANJ to get selected to jury duty.
+
+Aragon Court is a dispute resolution protocol that handles subjective disputes that cannot be solved by smart contracts. This is achieved by having a set of jurors drafted for each dispute who will vote to guarantee a certain ruling.
+
+“Jurors sign up to get drafted into the court by staking and activating ANJ tokens in Aragon Court's smart contract. The more tokens a juror has activated, the higher the chance of getting drafted. Once the court is live, jurors will be able to acquire ANJ either on the open market or by depositing ANT into an Aragon Fundraising-based bonding curve to mint ANJ tokens.”<sup>40</sup>
+
+Once a ruling has been decided "and the decision is not appealed or appeals process has been exhausted, the final ruling is sent to the smart contract that triggered the dispute and all the adjudication rounds for the dispute can be settled, taking into account the final ruling for rewards and penalties. It is important to recognize this is an important attempt to move to an on-chain court and jury, while still having some off-chain elements to it.
+
+Aragon 为 DAO 治理引入了一个名为 Aragon Court 的新颖系统，可称为争议解决即服务（DRAAS）。<sup>39</sup> Aragon 网络已经有一个原生代币 ANT。该代币用于Aragon 网络投票中的治理，ANT的持有者有机会设定项目的方向和资源分配方式。治理代币是DAO的一个常见特征，仅用于上述目的。关于这些类型的代币有一些问题，将在后面的章节中提到。Aragon 法院有自己的原生代币ANJ。这种替代代币系统的使用，是因为有一个陪审团选择过程，ANJ是一个工作代币，所以糟糕的陪审员可以受到惩罚，因为他们必须押注ANJ才能被选为陪审员。
+
+Aragon 法院是一个纠纷解决协议，处理智能合约无法解决的主观纠纷。这是通过为每个纠纷起草一组陪审员来实现的，这些陪审员将投票保证某项裁决。
+
+
+-------------------
+<sup>39</sup>. https://blog.aragon.org/aragon-court-is-live-on-mainnet/
+
+<sup>40</sup>. All information comes from Aragon’s description of how the court works. - https://blog.aragon.org/juror-pre-activation-guide/
+
+-------------------
+
+
+### How Voting Occurs On Platform and Who Makes The Decisions?
+### 如何在平台上进行投票，谁来做决定？
+
+
+Things that can be voted on:
+
+- Outside expenditures that the organization makes. This could include who to partner with or who to pay money to outside the organization (i.e. developer grants).
+- What products/focuses will be on a decentralized organization’s roadmap.
+- Which additional members can be permitted to mobilize the plan into actual products and code.
+- How potential profits/dividends will be distributed amongst the DAO’s members and contracted agents.
+- Protocol upgrades or technological implementations.
+
+In order to have a well-functioning and resilient DAO it is most important that all members be involved in the governance and decision making processes. However, there is a conundrum that needs to be solved. Many members may not have certain expertise and knowledge in a certain area or won’t be available to vote on certain issues for a variety of reasons (away, working on other things, noncontactable). Having all members vote over time will not be scalable. In situations like this, where not all members can vote, it is important for the outcome to represent the global opinion of the DAO. This concept has been dubbed “holographic consensus” by Matan Field of DAOstack.<sup>41</sup> It states:
+
+**"The DAO’s approximate opinion about a proposal would then be achieved when most opinionated agents have approximately sufficient bandwidth to consider the proposal and express their opinion. A decentralized decision-making system will be denoted resilient if it ensures all decisions made in the DAO to agree with its approximate opinion (or to approximately agree with its global opinion)"**
+
+Good governance would allow for segments of a DAO to vote on issues on behalf of the DAO and make sure that the decisions have consensus amongst the “global opinion”.
+
+可以投票表决的事项：
+
+- 组织的外部支出。这可能包括与谁合作或谁向组织外部付款（即开发人员补助金）。
+
+- 去中心化组织的路线图将是什么样的产品/重点。
+
+- 哪些其他成员可以被允许将计划转化为实际的产品和代码。
+
+- 潜在利润/股息将如何在DAO成员和签约代理人之间分配。
+
+- 协议升级或技术实现。
+
+为了拥有一个功能良好且具有弹性的DAO，最重要的是所有成员都参与治理和决策过程。然而，有一个难题需要解决。许多成员可能在某一领域不具备某些专长和知识，或者由于各种原因（外出、从事其他工作、无法联系）无法对某些问题进行投票。随着时间的推移，让所有成员投票将是不可扩展的。在这种并非所有成员都能投票的情况下，投票结果必须代表DAO的全球意见。这个概念被DAOstack的Matan Field称为 "全息共识"。<sup>41</sup>它指出。
+
+**"当大多固执己见的代理有大致足够的带宽来考虑该提案并表达他们的意见时，DAO对一个提案的大致意见就会实现。如果一个分散的决策系统能够确保DAO中做出的所有决策都与它的近似意见一致（或与它的全局意见近似一致），那么它将被称为弹性系统 "**。
+
+好的治理将允许一个DAO的部分代表DAO投票，并确保决策在“全球意见”中达成共识。
+
+### How members are allowed to exit (Moloch allows for “ragequitting”, dilution bounds)
+### 如何允许成员退出(Moloch允许 "愤怒退出"，稀释界限)
+
+“Ragequitting” has become part of the popular DAO lexicon and describes how most DAOs allow members to leave if they don’t agree with the consensus, investment and governance decisions of a DAO. It allows members to leave with their holdings as soon as they want to. In many cases, they are allowed to receive distributions from any investments they voted on prior to their leaving.
+
+As Albert O. Hirschman describes it in his book “Exit, Voice, and Loyalty” this is voting with your feet. Hirschman wrote that technological advances would increase the likelihood of exit as a strategy for dealing with states (or corporations) in decline. In the industrial era, he notes, there were great economic advantages to operating at a large scale which the era of technology has rendered obsolete. In the industrial era, it was, therefore, impractical to divide sprawling jurisdictions into enclaves where everyone could have his own way, even on important items. As technology has specialized into niches and decentralization permeates, DAOs are a natural extension of this.
+
+"Ragequitting "已经成为流行的DAO词汇的一部分，它描述了大多数DAO允许成员在不同意DAO的共识、投资和治理决策时离开的方式。它允许成员只要想离开，就可以带着他们的财产离开。在许多情况下，他们被允许从他们离开前投票的任何投资中获得分配。
+
+正如 Albert O. Hirschman在他的《叛出、抗议和忠诚》一书中所描述的那样，这就是用脚投票。赫希曼写道，技术进步将增加退出的可能性，作为应对衰落的国家（或公司）的策略。他指出，在工业时代，大规模经营有很大的经济优势，而技术时代已经使这些优势过时了。因此，在工业时代，把庞大的辖区划分为飞地，让每个人都能各得其所，甚至在重要的项目上也是如此，这是不切实际的。随着技术的专业化进入小众化，分散化的渗透，DAO是这种情况的自然延伸。
+
+### Onchain vs Offchain
+### 线上 vs 线下
+
+In many DAO’s activities can happen “on-chain” or “off-chain”. For example, MetaCartel describes in its whitepaper that fundraising and asset management are on-chain.<sup>42</sup> However, many of its decisions will be coordinated through social consensus, using “off-chain” communication channels such as group chats, video meetings, and in-person meetings. These interactions help the members develop and evaluate ideas, initiatives, and values together long before a formal proposal is submitted to a vote of the members (similar to Ethereum Improvement Proposals (EIPs)). As such all DAO members are recognized as managing members of the Limited Liability Company (‘LLC’) and will have full economic, informational, and governance rights in the LLC.
+
+许多DAO的活动可以发生在 "链上 "或 "链下"。例如，MetaCartel在其白皮书中描述，筹资和资产管理是链上活动。然而，它的许多决策将通过社会共识来协调，使用 "链下 "沟通渠道，如群聊、视频会议和面对面会议。这些互动有助于成员在正式提案提交给成员投票之前（类似于以太坊改进提案（EIP）），共同开发和评估想法、倡议和价值观。因此，所有DAO成员都被视为有限责任公司（'LLC'）的管理成员，并将在LLC中享有充分的经济、信息和治理权利。
+
+
+
+---------------
+<sup>41</sup>. https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c
+
+<sup>42</sup>. Shapeero,'p3terpan', Soleimani (2019) ‘MetaCartel Ventures’ White Paper. - https://github.com/metacartel/MCV/blob/master/Whitepaper.pdf
+
+-------------
+
+
+### Voter Participation
+### 选民参与
+
+In the real world, political elections are one of the few opportunities for all individuals to participate. However, voter participation is low as people feel disenfranchised and left out of the system. Some countries have compulsory voting with penalties for nonparticipation, as opposed to incentives, such as Australia.
+
+What can be learned and adapted to DAOs from research on compulsory voting vs voluntary voting from the political systems? A dissertation presented at Harvard on Five Studies on the Causes and Consequences of Voter Turnout provides some examples of the impacts of compulsory vs voluntary voting from the political systems.
+
+“By collecting and comparing two novel data sources to assess the extent of turnout inequality in Australia before compulsory voting. Overwhelmingly, wealthy citizens voted more than their workingclass counterparts. Next, exploiting the differential adoption of compulsory voting across states, they found that the policy increased voter turnout by 24 percentage points which in turn increased the vote shares and seat shares of the Labor Party by 7 to 10 percentage points. Finally, comparing OECD countries, they found that Australia’s adoption of compulsory voting significantly increased turnout and pension spending at the national level. Results suggest that democracies with voluntary voting do not represent the preferences of all citizens. Instead, increased voter turnout can dramatically alter election outcomes and resulting public policies”
+
+One of the challenges for DAOs as their scale is ensuring that they enable, incentivize and/or penalize participants to vote, whilst ensuring that they can operate structurally in the event of low voter participation.<sup>44</sup>
+
+在现实世界中，政治选举是所有个人参与的少数机会之一。然而，选民的参与率很低，因为人们感到被剥夺了权利，被排除在制度之外。一些国家实行强制投票，对不参与选举的人进行惩罚，而不是采取激励措施，如澳大利亚。
+
+从政治制度中关于强制性投票与自愿性投票的研究中，有什么可以借鉴和适应DAO的？哈佛大学发表的一篇论文《关于选民投票率的原因和后果的五项研究》提供了一些从政治制度上看强制投票与自愿投票的影响的例子。
+
+"通过收集和比较两个新颖的数据来源，评估澳大利亚在强制投票前的投票率不平等程度。绝大多数情况下，富裕公民的投票率高于他们的工人阶级同行。其次，利用各州采用强制投票的差异性，他们发现该政策使投票率提高了24个百分点，从而使工党的得票率和议席比例提高了7至10个百分点。最后，对比经合组织（OECD）国家，他们发现澳大利亚采取强制投票的做法，显著提高了全国范围内的投票率和养老金支出。结果表明，实行自愿投票的民主国家并不能代表所有公民的偏好。相反，选民投票率的提高可以极大地改变选举结果和由此产生的公共政策"。
+
+随着规模的扩大，DAOs面临的挑战之一是确保它们能够扶持、激励和/或惩罚参与者投票，同时确保它们在选民参与率低的情况下能够在结构上运作。<sup>44</sup>
+
+
+### Growing Pains To DAO Size
+### DAO规模增长的烦恼
+
+If a DAO becomes too big will they stop working effectively and will members begin to quit if they feel their voices and votes don’t matter? According to Dunbar’s Rule and the Ringelman Effect, this is a real concern. It is a phenomenon found in many nations where voter apathy or differences of opinion between different regions cause people to feel unrepresented within the whole.<sup>45</sup>
+
+Nassim Taleb talks about this in his book ‘Anti-Fragile’ when talking about Switzerland and its cantons:
+
+**“Governs them is entirely bottom-up, municipal of sorts, regional entities called cantons, near-sovereign mini-states united in a confederation. Bottom-up variations—or noise—is the type of political volatility that takes place within a municipality, the petty fights and frictions in the running of regular affairs. It is not scalable (or what is called invariant under scale transformation): in other words, if you increase the size, say, multiply the number of people in a community by a hundred, you will have markedly different dynamics. A large state does not behave at all like a gigantic municipality, much as a baby human does not resemble a smaller adult. The difference is qualitative: the increase in the number of persons in a given community alters the quality of the relationship between parties.”**
+
+Taleb then goes on to say:
+
+“Take for now that the small (in the aggregate, that is, a collection of small units) is more antifragile than the large—in fact the large is doomed to breaking, a mathematical property we will explain later, that, sadly, seems universal as it applies to large corporations, very large mammals, and large administrations.There is another issue with the abstract state, a psychological one. We humans scorn what is not concrete.”
+
+The size and success of DAO as it scales will depend on many factors:
+
+- The scope of what's decided on by participants
+- Track record/history of governance
+- How well it can coordinate decision making by members
+- Effectiveness of the processes enabling the DAO
+
+
+如果一个DAO变得太大了，他们是否会停止有效地工作，如果成员们觉得他们的声音和投票不重要，他们是否会开始退出？根据邓巴规则（Dunbar’s Rule）和林格尔曼效应（Ringelman Effect），这是一个真正的问题。这是许多国家都存在的现象，即选民的冷漠或不同地区之间的意见差异，导致人们感到在整体中没有代表性。<sup>45</sup>
+
+Nassim Taleb在他的《反脆弱》一书中，当谈到瑞士及其各州时谈到了这一点：
+
+**“对它们的管理完全是自下而上的，市政的，区域性的实体，称为州，近主权的小型城邦，组成一个联邦。自下而上的变化——或者说是喧闹——是指发生在一个市镇内部的政治波动，是常规事务运行中的小打小闹和摩擦。它是不可扩展的（或者说是所谓的规模转换下的不变性）：换句话说，如果你增加规模，比如说，把一个社区的人数乘以一百，你会有明显不同的动态。一个大国的行为完全不像一个巨大的市镇，就像一个人类婴儿不像一个较小的成年人一样。这种差别是质的差别：特定社区中人数的增加会改变各方关系的质量”**。
+
+Taleb接着说：
+
+“就拿现在来说，小的(总的来说，即小单位的集合)比大的更脆弱 -- -- 事实上，大的注定要崩溃，我们稍后将解释这一数学特性，可悲的是，它似乎是普遍的，因为它适用于大公司、非常大的哺乳动物和大的行政机构。抽象状态还有一个问题，就是心理问题。我们人类蔑视不具体的东西。”
+
+DAO的规模和成功取决于许多因素：
+
+- 参与者所决定的内容范围
+- 治理记录/历史的追踪
+- 它在多大程度上能够协调成员的决策
+- 实现DAO的程序的有效性
+
+### Is Dunbar's Number Applicable To DAOs?
+### 邓巴数适用于DAOs吗？
+
+British anthropologist, Robin Dunbar, developed what is referred to as the Rule of 150, aka Dunbar's Rule. Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships or social purpose, and the benefits and consequences of these relationships. Dunbar proposed that on average people have 5 intimate friends, 15 best friends, 50 good friends, 150 friends, 500 acquaintances, and 1,500 people humans can recognize on sight.
+
+According to Dunbar and many researchers, this rule of 150 remains true for early hunter-gatherer societies as well as a surprising array of modern groupings in social and working environments including offices, communes, factories, residential campsites, military organizations, 11th Century English villages.
+
+Currently, most DAOs operate with less than 150 members, which according to Dunbar's number falls within the framework of friends. As such, a shared vision and common goal is more easily conveyed and worked towards. The challenge moving forward is scaling beyond 500 members, Dunbar’s quota for acquaintances, where true decentralization enables anyone to join or unjoin a DAO without the same level of social connection and social contract that DAO benefits from with smaller numbers.
+
+英国人类学家罗宾-邓巴提出了所谓的150定律，又称邓巴定律。邓巴数字是对一个人能够与之保持稳定的社会关系或社会目的的人数，以及这些关系的好处和后果提出的认知极限。邓巴提出，人平均有5个亲密的朋友，15个最好的朋友，50个好朋友，150个朋友，500个熟人，人类能一眼认出的人有1500个。
+
+根据邓巴和许多研究者的观点，这个150定律对于早期的狩猎采集社会以及一系列令人惊讶的现代社会和工作环境中的群体，包括办公室、公社、工厂、住宅营地、军事组织、11世纪的英国村庄，仍然是适用的。
+
+目前，大多数DAO的运作成员不到150人，根据邓巴数字，这属于朋友的框架。因此，共同的愿景和共同的目标更容易传达和实现。未来的挑战是将规模扩大到500名成员以上，也就是邓巴的熟人配额，真正的去中心化使任何人都可以加入或退出一个DAO，而不需要同等程度的社会联系和社会契约，在人数较少的情况下，DAO受益于这些社会关系和社会契约。
+
+
+---------------
+<sup>44</sup>. "Five Studies on the Causes and Consequences of Voter Turnout"   
+https://dash.harvard.edu/bitstream/handle/1/11156810/Fowler_gsas.harvard_0084L_10773.pdf?sequence=3
+
+<sup>45</sup>. Ringelmann Effect: Members of a group become lazier as the size of their group increases. Based on the assumption that “someone else is probably taking care of that.”
+
+----------------
+
+
+## DAOs AND CORPORATIONS
+## DAO和公司
+
+In the US, DAOs can also adopt legal frameworks of an LLC, a Limited Liability Company, which enables them to operate with the same legal protections of registered corporations for both themselves and their members. One example is the LAO, a for-profit US legally compliant venture capital fund that is organized as a DAO. The LAO is being launched by OpenLaw, which is a blockchain protocol that is mapping real-world legal contracts with smart contracts in order to bridge them into the digital, Ethereum ecosystem. This forms a legal wrapper<sup>46</sup> for projects like DAOs.
+
+“Like The DAO, The LAO allows Members to pool capital, invest in projects, and share in any proceeds from the investment. The LAO is organized as a legal entity (a Delaware limited liability company) primarily administered via an online application (a "DApp") and related smart contracts. The LAO will enable its members to vote on project funding proposals and invest in early-stage Ethereum ventures. Unless modified by the members, funding will be provided to projects in stablecoin or Dai.”
+
+在美国，DAO也可以采用LLC(有限责任公司)的法律框架，使其自身及其成员能够得到与注册公司相同的法律保护。其中一个例子是LAO，这是一个符合美国法律规定的营利性风险投资基金，它的组织形式是DAO。LAO是由OpenLaw发起的，它是一个区块链协议，正在将现实世界的法律合同与智能合同进行映射，以便将它们连接到数字、Ethereum生态系统中。这为DAO等项目形成了一个法律包装。
+
+"像DAO一样，LAO允许成员汇集资金，投资项目，并分享投资的任何收益。LAO的组织形式是一个法律实体（特拉华州有限责任公司），主要通过在线应用程序（"DApp"）和相关智能合约进行管理。LAO将使其成员能够对项目融资提案进行投票，并投资于早期阶段的Ethereum企业。除非成员修改，否则将向稳定币或Dai的项目提供资金。"
+
+
+![](./assets/LAOS-DAOS.png)
+
+
+---------------------
+<sup>46</sup>. A legal wrapper gives DAOs legal templates/proformas that they can use as part of their structure to abide by particular regulatory constructs.
+
+---------------------
+
+
+
+
