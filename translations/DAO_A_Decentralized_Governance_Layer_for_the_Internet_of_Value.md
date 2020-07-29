@@ -154,7 +154,7 @@ DAO第一次让交互、协作、收益分享和风险（组织、社区）可�
 - 将会有越来越多的DSaaS（DAO软件即服务）提供商，如OpenLaw、Aragon和DAOstack，旨在加速DAO这个类别的发展。他们将提供按需的专业资源，如法律、会计和第三方审计的合规服务。
 
 - 在一个DAO中，存在一个三角对立关系。这个三角关系的词汇是基于Albert Hirschman的论文 "Exit, Voice & Loyalty"。必须平衡这些因素，以找到一个最佳结果，使DAO能够实现其任务。
-  - 叛出（个人）
+  - 叛离（个人）
   - 抗议（治理）
   - 忠诚度(权力下放)
 
@@ -433,7 +433,7 @@ The three sides of DAO Tension Triangle are based on Albert Hirschman’s book �
 
 三难问题与对立三角不同，在三难问题上，必须在实现三种不同的设计方案之间做出艰难的选择，其中一种方案仅限于从三种方案中选择两种方案。设计一个系统来实现这三个目标是不可能的，因为它们的存在相互抵消。这些选择可能都是不可接受的或不利的，也可能都是有利的，这取决于不同的环境或对受影响人口的不同子集。无论如何，都需要做出艰难的选择。所有系统都有折衷，使用三角关系有助于解决这些问题。
 
-DAO的三角对立的三个方面是基于Albert Hirschman的《叛出、抗议和忠诚》一书。对于Hirschman来说，组织的形成是基于利益相关者/成员/公民对产品、服务或政治代表性价值下降的反应。
+DAO的三角对立的三个方面是基于Albert Hirschman的《叛离、抗议和忠诚》一书。对于Hirschman来说，组织的形成是基于利益相关者/成员/公民对产品、服务或政治代表性价值下降的反应。
 
 - Exit takes form whenever one either:
   - (1) leaves circumstances one finds disagreeable,
@@ -447,22 +447,22 @@ DAO的三角对立的三个方面是基于Albert Hirschman的《叛出、抗议�
 
 So as Charles Tilley observed: ‘Voice is more effective and likely when the exit is possible but not too easy. Some loyalty is necessary to voice opposition. If there’s no loyalty and exit is impossible, people will have no choice but to suffer in silence. If there is absolute loyalty, no one will voice opposition.’<sup>18</sup>
 
-- 当出现下列情况之一时，叛出即形成：
+- 当出现下列情况之一时，叛离即形成：
   - (1)离开自己不喜欢的环境；
   - (2)撤销对商业产品的消费信心。
   - (3)离开一个组织，到另一个更能代表自己利益的组织去，或
   - (4)在极端情况下，放弃自己曾经效忠的国籍。
 
-- 抗议是在一定条件下表达对产品、服务或政策立场的不满。如果一个人的抗议听不见，叛出就成了一个可行的选择。
+- 抗议是在一定条件下表达对产品、服务或政策立场的不满。如果一个人的抗议听不见，叛离就成了一个可行的选择。
 
-- 对公司、任务或政策平台的忠诚抑制了离开或抱怨糟糕的情况；从而有效地抑制了叛出和抗议的倾向<sup>17</sup>。
+- 对公司、任务或政策平台的忠诚抑制了离开或抱怨糟糕的情况；从而有效地抑制了叛离和抗议的倾向<sup>17</sup>。
 
-因此，正如 Charles Tilley 所观察到的：“当叛出是可能的，但不太容易的时候，抗议更有效，也更有可能。有些忠诚是表达反对意见的必要条件。如果没有忠诚，叛出是不可能的，人们将别无选择，只能默默忍受。如果有绝对的忠诚，就不会有人发出反对的声音。”<sup>18</sup>
+因此，正如 Charles Tilley 所观察到的：“当叛离是可能的，但不太容易的时候，抗议更有效，也更有可能。有些忠诚是表达反对意见的必要条件。如果没有忠诚，叛离是不可能的，人们将别无选择，只能默默忍受。如果有绝对的忠诚，就不会有人发出反对的声音。”<sup>18</sup>
 
 
 A DAO, like any organization, must balance the forces of voice, exit, and loyalty. The extent to which a DAO respects the sovereign nature of the individual is the extent to which it permits exit. The Individual is all about **autonomy in participation**. The Individual can choose when to join a DAO and when to leave a DAO as well as choose to participate and vote in all other decisions of the DAO (use their voice). It maps to free will. The Individual is Exit. Governance mechanisms are the DAO specific design space associated with Voice. Participating in governance and attempting to improve the DAO by being active is governance. This is the Individual using his voice for the greater good. To strengthen governance requires strengthening the voice and weakening incentives for the exit. Decentralization is like Hirschman's concept of loyalty. Decentralization not only describes the technology platform but the attributes and ethos of those who choose to participate in the DAO. It is loyalty which influences whether participants in a DAO will lean towards voice or exit, all else being equal. For DAOs, decentralization along with the people and their motives behind the DAO are the major factors influencing the credibility of the project.
 
-一个DAO，与任何组织一样，必须平衡发言权、退出和忠诚的力量。一个DAO在多大程度上尊重个人的主权性质，就在多大程度上允许退出。个人就是要**在参与中实现自主性**。个人可以选择何时加入DAO，何时退出DAO，也可以选择参与DAO的所有其他决策并投票（使用他们的发言权）。它映射到自由意志。个人就是退出。治理机制是与发言权相关联的DAO特定设计空间。参与治理并试图通过活跃的方式改善DAO就是治理。这就是个体利用自己的发言权为更大的利益服务。要加强治理，就要强化话语权，弱化退出的激励机制。去中心化就像赫希曼的忠诚概念。去中心化不仅描述了技术平台，还描述了选择参与DAO的人的属性和精神。在其他条件相同的情况下，正是忠诚度影响着DAO的参与者是倾向于抗议还是叛出。对于DAO来说，权力下放和DAO背后的人及其动机是影响项目可信度的主要因素。
+一个DAO，与任何组织一样，必须平衡发言权、退出和忠诚的力量。一个DAO在多大程度上尊重个人的主权性质，就在多大程度上允许退出。个人就是要**在参与中实现自主性**。个人可以选择何时加入DAO，何时退出DAO，也可以选择参与DAO的所有其他决策并投票（使用他们的发言权）。它映射到自由意志。个人就是退出。治理机制是与发言权相关联的DAO特定设计空间。参与治理并试图通过活跃的方式改善DAO就是治理。这就是个体利用自己的发言权为更大的利益服务。要加强治理，就要强化话语权，弱化退出的激励机制。去中心化就像赫希曼的忠诚概念。去中心化不仅描述了技术平台，还描述了选择参与DAO的人的属性和精神。在其他条件相同的情况下，正是忠诚度影响着DAO的参与者是倾向于抗议还是叛离。对于DAO来说，权力下放和DAO背后的人及其动机是影响项目可信度的主要因素。
 
 
 **"Decentralization is neither binary nor costless. It involves tradeoffs. It's about achieving enough decentralization to meet the demands of your use case at whatever scale you're aiming for." - Reserve Protocol**
@@ -471,7 +471,7 @@ A DAO, like any organization, must balance the forces of voice, exit, and loyalt
 
 Highly centralized organizations engender disloyalty and skepticism (e.g. XRP). Decentralized ones gain a passionate following that may lean towards voice rather than simply leaving, even though it is possible (e.g. MakerDAO). Voice and exit come at the expense of one another. If it is easier to exit, the mechanisms of voice lose some of their importance. If the mechanisms of voice become more binding, it is harder to exit. Loyalty and decentralization influence how these mechanisms are implemented. Decentralization makes mechanism design more difficult, whether it is a voice or exit mechanism, but engenders greater loyalty to the DAO as a whole.[19]
 
-高度集中的组织会引起不忠诚和怀疑(如XRP)。分散的组织会获得热情的追随者，他们可能倾向于发出抗议，而不是简单地离开，尽管这是有可能的(如MakerDAO)。抗议和叛出是以牺牲对方为代价的。如果退出更容易，抗议机制就会失去一些重要性。如果话语权机制变得更有约束力，退出就更难。忠诚度和分权会影响这些机制的实施方式。不管是话语权机制还是退出机制，分权都会使机制设计更加困难，但会使人们对整个DAO产生更大的忠诚度<sup>19</sup>。
+高度集中的组织会引起不忠诚和怀疑(如XRP)。分散的组织会获得热情的追随者，他们可能倾向于发出抗议，而不是简单地离开，尽管这是有可能的(如MakerDAO)。抗议和叛离是以牺牲对方为代价的。如果退出更容易，抗议机制就会失去一些重要性。如果话语权机制变得更有约束力，退出就更难。忠诚度和分权会影响这些机制的实施方式。不管是话语权机制还是退出机制，分权都会使机制设计更加困难，但会使人们对整个DAO产生更大的忠诚度<sup>19</sup>。
 
 The components of the DAO Tension Triangle are:
 
@@ -493,7 +493,7 @@ DAO对立三角的组成部分是：
 
   - 每一个DAO的分权程度也不尽相同，受其目的、能力和参与成本的制约。
 
-- **个人（叛出）**
+- **个人（叛离）**
 
   - 这里的个人，是相信个人权利和权力的人。个人往往是相信自我治理和更大利益，但希望维护个人权利，愿意为自己做事的人。这个定义还可以扩展到包括在其土地管辖范围内经营的注册或未注册的公司，并在法律上作为个人对待和界定。
   
@@ -524,17 +524,17 @@ To better understand the DAO Tension Triangle it’s important to understand bot
   
 - 权力下放：忠诚
   
-  对公司、任务或政策平台的忠诚度有助于缓解离开或抱怨糟糕的情况；从而有效地降低了叛出和抗议两种倾向的可能性。
+  对公司、任务或政策平台的忠诚度有助于缓解离开或抱怨糟糕的情况；从而有效地降低了叛离和抗议两种倾向的可能性。
  
-- 个人：叛出
+- 个人：叛离
 
-  每当一个人离开自己不喜欢的环境，撤销对某一商业产品的消费信心，离开一个组织而选择另一个更能代表自己利益的组织，或者极端地放弃自己曾经效忠的国籍时，就会形成叛出。 
+  每当一个人离开自己不喜欢的环境，撤销对某一商业产品的消费信心，离开一个组织而选择另一个更能代表自己利益的组织，或者极端地放弃自己曾经效忠的国籍时，就会形成叛离。 
   
 - 治理：抗议
 
   抗议是指在退出不被认为是一种可行的选择的情况下，表达对产品、服务或政策立场的不满。
   
-为了更好地理解DAO的三角对立，既要理解忠诚（分权）、叛出（个人）和（抗议）治理的个人定义，也要理解它们各自之间的关系。 
+为了更好地理解DAO的三角对立，既要理解忠诚（分权）、叛离（个人）和（抗议）治理的个人定义，也要理解它们各自之间的关系。 
 
 
 -------------
@@ -944,7 +944,7 @@ As Albert O. Hirschman describes it in his book “Exit, Voice, and Loyalty” t
 
 "Ragequitting "已经成为流行的DAO词汇的一部分，它描述了大多数DAO允许成员在不同意DAO的共识、投资和治理决策时离开的方式。它允许成员只要想离开，就可以带着他们的财产离开。在许多情况下，他们被允许从他们离开前投票的任何投资中获得分配。
 
-正如 Albert O. Hirschman在他的《叛出、抗议和忠诚》一书中所描述的那样，这就是用脚投票。赫希曼写道，技术进步将增加退出的可能性，作为应对衰落的国家（或公司）的策略。他指出，在工业时代，大规模经营有很大的经济优势，而技术时代已经使这些优势过时了。因此，在工业时代，把庞大的辖区划分为飞地，让每个人都能各得其所，甚至在重要的项目上也是如此，这是不切实际的。随着技术的专业化进入小众化，分散化的渗透，DAO是这种情况的自然延伸。
+正如 Albert O. Hirschman在他的《叛离、抗议和忠诚》一书中所描述的那样，这就是用脚投票。赫希曼写道，技术进步将增加退出的可能性，作为应对衰落的国家（或公司）的策略。他指出，在工业时代，大规模经营有很大的经济优势，而技术时代已经使这些优势过时了。因此，在工业时代，把庞大的辖区划分为飞地，让每个人都能各得其所，甚至在重要的项目上也是如此，这是不切实际的。随着技术的专业化进入小众化，分散化的渗透，DAO是这种情况的自然延伸。
 
 ### Onchain vs Offchain
 ### 线上 vs 线下
